@@ -1,0 +1,2001 @@
+user_id,feedback_type,severity,sentiment,feature_area,resolved,created_date
+1860,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2026-01-04
+4772,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-08-11
+4092,AI Accuracy,High,Neutral,Grocery List AI,0,2025-08-23
+1466,UX Issue,Medium,Positive,Grocery List AI,0,2026-01-08
+5426,Feature Request,High,Negative,Meal Recommendation AI,0,2025-11-23
+4444,AI Accuracy,Low,Negative,Scheduling AI,0,2025-11-16
+4171,Feature Request,Medium,Positive,Scheduling AI,1,2026-01-14
+3919,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-08-18
+1130,Bug,Low,Positive,Meal Recommendation AI,0,2025-08-25
+2685,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-11-01
+1769,UX Issue,High,Negative,Grocery List AI,0,2025-10-06
+3391,AI Accuracy,Low,Negative,Scheduling AI,1,2025-10-05
+3433,Bug,Low,Positive,Meal Recommendation AI,1,2025-12-15
+2184,Bug,Low,Positive,Grocery List AI,1,2025-08-25
+5555,UX Issue,Low,Negative,Scheduling AI,0,2025-09-02
+4385,Feature Request,High,Negative,Scheduling AI,0,2025-11-19
+5117,UX Issue,Medium,Neutral,Scheduling AI,1,2025-08-25
+5843,UX Issue,Medium,Neutral,Grocery List AI,1,2025-11-27
+3904,AI Accuracy,High,Negative,Grocery List AI,0,2025-09-21
+1474,Feature Request,Low,Neutral,Meal Recommendation AI,1,2026-01-15
+2082,AI Accuracy,Medium,Positive,Meal Recommendation AI,0,2025-12-03
+3558,Feature Request,Medium,Negative,Scheduling AI,1,2025-11-21
+3047,Feature Request,Medium,Negative,Scheduling AI,1,2025-12-06
+3747,Feature Request,High,Negative,Grocery List AI,1,2025-11-02
+1975,AI Accuracy,High,Negative,Grocery List AI,0,2025-12-27
+2806,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2026-02-01
+1189,AI Accuracy,High,Positive,Meal Recommendation AI,1,2026-01-05
+3734,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-09-03
+4005,AI Accuracy,Low,Positive,Grocery List AI,1,2025-09-05
+5658,Bug,Low,Positive,Scheduling AI,1,2025-11-28
+2899,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-11-27
+2267,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2026-01-31
+2528,UX Issue,Medium,Negative,Grocery List AI,1,2025-10-13
+4202,UX Issue,High,Negative,Meal Recommendation AI,0,2025-11-06
+4556,UX Issue,Medium,Positive,Scheduling AI,1,2026-01-28
+4890,UX Issue,Medium,Positive,Grocery List AI,0,2026-01-27
+1646,Bug,Low,Negative,Meal Recommendation AI,0,2026-01-21
+3888,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-10-23
+3435,Bug,Medium,Negative,Grocery List AI,1,2026-01-29
+1600,Bug,Medium,Negative,Grocery List AI,1,2025-11-25
+3363,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-13
+3061,Bug,Low,Negative,Scheduling AI,0,2026-01-21
+1241,AI Accuracy,Low,Positive,Grocery List AI,0,2025-08-24
+3041,Feature Request,Medium,Negative,Scheduling AI,0,2025-11-14
+3824,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-12-28
+3612,Bug,Low,Neutral,Scheduling AI,1,2025-09-24
+2363,Bug,High,Negative,Meal Recommendation AI,1,2025-12-10
+2478,Feature Request,Low,Neutral,Meal Recommendation AI,0,2025-11-05
+3556,Feature Request,Medium,Negative,Meal Recommendation AI,1,2025-11-16
+1775,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-09-11
+5014,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-01
+1034,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-08-30
+4152,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-11-22
+2955,Feature Request,Low,Positive,Scheduling AI,1,2025-11-18
+2585,AI Accuracy,High,Positive,Grocery List AI,0,2026-01-26
+4943,Bug,Low,Neutral,Scheduling AI,1,2025-10-21
+4073,UX Issue,High,Negative,Scheduling AI,1,2025-11-10
+2021,Feature Request,Low,Positive,Scheduling AI,0,2025-11-30
+4461,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-12-05
+3613,Bug,Medium,Negative,Meal Recommendation AI,0,2025-09-27
+4843,Bug,High,Neutral,Meal Recommendation AI,1,2025-09-12
+2500,UX Issue,Low,Negative,Grocery List AI,0,2025-09-05
+5798,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-10-21
+1161,Feature Request,Low,Negative,Grocery List AI,0,2025-09-10
+5297,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-11-04
+2981,UX Issue,Medium,Positive,Scheduling AI,0,2025-11-11
+1995,UX Issue,High,Negative,Meal Recommendation AI,0,2025-08-11
+5911,AI Accuracy,Low,Negative,Grocery List AI,0,2025-10-07
+4342,UX Issue,Low,Negative,Grocery List AI,1,2025-11-18
+5551,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2026-01-26
+4798,AI Accuracy,High,Neutral,Scheduling AI,0,2025-09-09
+2275,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2026-01-07
+2016,Bug,High,Negative,Meal Recommendation AI,1,2025-11-01
+1337,UX Issue,Low,Neutral,Meal Recommendation AI,1,2026-01-26
+1878,Bug,Medium,Neutral,Scheduling AI,1,2026-01-23
+2076,UX Issue,High,Neutral,Grocery List AI,1,2025-12-20
+5887,AI Accuracy,Low,Negative,Scheduling AI,0,2025-09-07
+4993,UX Issue,High,Neutral,Grocery List AI,0,2025-12-17
+5859,UX Issue,High,Negative,Grocery List AI,0,2025-09-26
+1379,AI Accuracy,High,Neutral,Grocery List AI,0,2025-10-12
+1492,UX Issue,High,Negative,Scheduling AI,1,2025-10-15
+3062,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-11-12
+4884,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-12-14
+1064,Feature Request,High,Negative,Meal Recommendation AI,0,2025-09-28
+3568,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-11-29
+3027,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-11-18
+3695,Feature Request,High,Neutral,Scheduling AI,0,2025-12-10
+2495,UX Issue,Medium,Negative,Scheduling AI,0,2025-10-31
+1391,AI Accuracy,High,Negative,Scheduling AI,1,2025-09-23
+5514,Bug,Low,Neutral,Scheduling AI,1,2025-09-11
+5474,AI Accuracy,Low,Positive,Scheduling AI,0,2025-08-17
+4561,Feature Request,Low,Neutral,Scheduling AI,0,2025-12-04
+3278,Bug,Medium,Positive,Scheduling AI,1,2025-12-02
+4099,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-12-28
+1200,AI Accuracy,Low,Positive,Grocery List AI,0,2025-10-19
+5875,AI Accuracy,High,Neutral,Scheduling AI,1,2026-01-10
+4104,AI Accuracy,High,Negative,Grocery List AI,1,2025-08-17
+5598,AI Accuracy,Low,Positive,Scheduling AI,1,2026-01-24
+3454,Feature Request,Low,Positive,Scheduling AI,1,2025-09-08
+4645,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-11-20
+1804,UX Issue,Low,Positive,Grocery List AI,0,2025-09-16
+3731,Bug,Low,Positive,Meal Recommendation AI,1,2025-11-11
+3773,Feature Request,Low,Positive,Meal Recommendation AI,0,2026-01-06
+2570,UX Issue,Medium,Negative,Grocery List AI,1,2025-08-17
+3690,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-08-23
+4840,UX Issue,High,Neutral,Scheduling AI,1,2025-08-19
+2028,UX Issue,Medium,Negative,Scheduling AI,0,2025-12-15
+1502,UX Issue,Medium,Neutral,Scheduling AI,0,2025-12-04
+5493,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-08
+1870,Bug,Medium,Negative,Scheduling AI,1,2025-10-23
+5488,UX Issue,High,Negative,Meal Recommendation AI,1,2025-08-27
+1206,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-12-28
+2484,UX Issue,High,Positive,Scheduling AI,0,2025-12-26
+1863,UX Issue,Medium,Neutral,Scheduling AI,0,2025-10-07
+3790,Feature Request,High,Negative,Meal Recommendation AI,1,2025-10-20
+1563,Feature Request,High,Negative,Grocery List AI,1,2025-08-24
+5191,Feature Request,High,Negative,Meal Recommendation AI,1,2025-12-02
+2757,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-10-10
+2678,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-11-18
+4242,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-08-29
+5636,AI Accuracy,High,Negative,Meal Recommendation AI,1,2026-01-28
+2059,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-10-31
+2722,Feature Request,Medium,Negative,Scheduling AI,1,2026-01-18
+4314,AI Accuracy,High,Negative,Scheduling AI,1,2025-08-16
+4157,UX Issue,High,Positive,Grocery List AI,0,2025-11-01
+3625,AI Accuracy,High,Negative,Scheduling AI,0,2026-01-03
+3729,AI Accuracy,Low,Positive,Scheduling AI,0,2026-01-31
+2597,AI Accuracy,High,Negative,Scheduling AI,0,2025-10-01
+4060,Bug,Low,Negative,Grocery List AI,1,2025-11-23
+3693,Feature Request,Low,Neutral,Grocery List AI,1,2025-10-02
+5891,Bug,Low,Negative,Scheduling AI,0,2025-08-25
+4627,UX Issue,Low,Neutral,Scheduling AI,0,2025-09-07
+2363,AI Accuracy,Medium,Neutral,Scheduling AI,1,2025-08-21
+2981,UX Issue,High,Neutral,Meal Recommendation AI,1,2026-01-31
+2663,UX Issue,Low,Negative,Meal Recommendation AI,0,2026-01-02
+2529,Feature Request,High,Negative,Meal Recommendation AI,1,2026-01-12
+3038,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-09-13
+4302,UX Issue,Low,Positive,Scheduling AI,0,2025-11-02
+3237,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-11-26
+2306,AI Accuracy,Low,Negative,Grocery List AI,0,2025-11-05
+5029,Feature Request,Medium,Neutral,Grocery List AI,0,2025-10-03
+3675,UX Issue,Medium,Positive,Scheduling AI,1,2026-01-14
+2282,UX Issue,Low,Neutral,Meal Recommendation AI,1,2026-01-21
+1709,UX Issue,Low,Negative,Scheduling AI,0,2025-10-27
+5744,UX Issue,Medium,Negative,Scheduling AI,0,2026-01-21
+5413,Feature Request,High,Negative,Grocery List AI,0,2025-09-05
+4748,Bug,Low,Neutral,Grocery List AI,1,2025-12-14
+5779,Bug,High,Negative,Grocery List AI,1,2025-09-09
+1663,Feature Request,High,Positive,Meal Recommendation AI,0,2025-10-26
+2998,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2025-10-15
+4445,Feature Request,High,Negative,Meal Recommendation AI,1,2026-01-04
+4743,UX Issue,Medium,Positive,Scheduling AI,1,2026-01-15
+2495,AI Accuracy,High,Negative,Grocery List AI,0,2025-08-17
+4304,Feature Request,High,Positive,Scheduling AI,1,2025-11-14
+4763,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2026-01-22
+2853,Bug,Low,Neutral,Grocery List AI,0,2026-01-21
+5659,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-09-10
+2291,UX Issue,High,Positive,Grocery List AI,0,2026-01-02
+4581,Feature Request,High,Positive,Grocery List AI,1,2025-08-25
+4457,Bug,Low,Negative,Scheduling AI,1,2025-11-14
+2636,UX Issue,Medium,Neutral,Scheduling AI,1,2026-01-27
+4696,UX Issue,Medium,Negative,Meal Recommendation AI,1,2025-08-31
+3999,AI Accuracy,Low,Negative,Scheduling AI,1,2025-11-20
+4152,UX Issue,High,Positive,Scheduling AI,1,2025-08-26
+1698,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-09-17
+3160,Feature Request,Low,Negative,Grocery List AI,0,2025-08-15
+5097,UX Issue,Medium,Negative,Scheduling AI,0,2026-01-27
+5737,Feature Request,High,Negative,Meal Recommendation AI,1,2025-12-31
+1854,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-10-11
+4474,AI Accuracy,High,Negative,Grocery List AI,0,2026-02-02
+2707,Feature Request,Medium,Positive,Scheduling AI,1,2026-01-17
+3777,AI Accuracy,Low,Negative,Grocery List AI,1,2025-09-02
+2733,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2026-01-13
+5931,AI Accuracy,Medium,Positive,Meal Recommendation AI,1,2025-10-24
+4510,Bug,Low,Neutral,Grocery List AI,0,2025-09-23
+1202,Feature Request,High,Positive,Scheduling AI,1,2025-10-23
+4255,UX Issue,High,Neutral,Scheduling AI,0,2025-09-16
+5218,AI Accuracy,High,Negative,Grocery List AI,1,2025-12-21
+5496,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-09-15
+1766,Feature Request,High,Positive,Grocery List AI,0,2026-01-21
+5389,Feature Request,Medium,Neutral,Scheduling AI,1,2025-12-16
+3327,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-18
+3931,AI Accuracy,Low,Negative,Grocery List AI,0,2026-01-28
+1197,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-11-28
+2930,Feature Request,High,Positive,Grocery List AI,1,2025-08-10
+4582,Feature Request,Medium,Negative,Meal Recommendation AI,1,2025-12-04
+1608,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-11-29
+4272,AI Accuracy,Medium,Neutral,Grocery List AI,1,2025-09-14
+2147,AI Accuracy,Low,Positive,Grocery List AI,1,2025-09-06
+5282,Bug,Medium,Positive,Meal Recommendation AI,1,2026-01-30
+4397,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-10-09
+3511,Feature Request,High,Negative,Meal Recommendation AI,1,2025-12-10
+2794,UX Issue,High,Negative,Meal Recommendation AI,0,2026-01-05
+1659,UX Issue,Medium,Neutral,Scheduling AI,0,2026-01-30
+3811,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-01
+2369,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-11-30
+2986,UX Issue,High,Negative,Grocery List AI,0,2025-09-27
+1146,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-09-02
+4219,UX Issue,Low,Positive,Grocery List AI,0,2025-11-23
+3911,UX Issue,Low,Neutral,Grocery List AI,0,2025-10-14
+2734,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-10-31
+2843,Bug,Medium,Positive,Meal Recommendation AI,0,2025-08-13
+1488,Feature Request,High,Neutral,Grocery List AI,0,2025-11-17
+3976,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-10-05
+2959,Bug,Low,Negative,Grocery List AI,0,2025-09-20
+3385,UX Issue,High,Neutral,Scheduling AI,0,2026-01-03
+3919,UX Issue,High,Negative,Meal Recommendation AI,0,2025-09-18
+5736,Feature Request,Low,Neutral,Scheduling AI,0,2025-12-23
+2802,Feature Request,Medium,Negative,Scheduling AI,1,2026-01-23
+5061,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-09-06
+4369,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-08-17
+1262,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-12-10
+1623,Bug,High,Negative,Meal Recommendation AI,1,2025-11-01
+2016,AI Accuracy,High,Negative,Grocery List AI,1,2025-09-14
+4643,UX Issue,Medium,Neutral,Grocery List AI,0,2025-10-19
+5976,UX Issue,Low,Positive,Scheduling AI,0,2025-10-08
+3049,UX Issue,Medium,Positive,Scheduling AI,0,2025-10-28
+4723,UX Issue,Medium,Positive,Meal Recommendation AI,0,2025-09-09
+5548,Bug,Low,Negative,Meal Recommendation AI,0,2025-10-17
+4108,AI Accuracy,High,Positive,Scheduling AI,1,2025-12-16
+5090,AI Accuracy,High,Positive,Scheduling AI,0,2026-01-15
+3056,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-12-07
+4170,Bug,High,Neutral,Grocery List AI,0,2025-08-10
+2682,UX Issue,Low,Neutral,Meal Recommendation AI,0,2026-01-15
+3255,AI Accuracy,Medium,Positive,Grocery List AI,1,2025-10-21
+2154,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-10-02
+5499,Bug,Medium,Negative,Meal Recommendation AI,0,2025-09-24
+4191,Feature Request,High,Negative,Meal Recommendation AI,1,2025-11-24
+2696,Bug,High,Neutral,Grocery List AI,1,2025-11-21
+4991,AI Accuracy,Low,Negative,Scheduling AI,0,2025-11-19
+5723,Feature Request,Low,Positive,Scheduling AI,0,2025-09-24
+5682,UX Issue,Medium,Positive,Grocery List AI,1,2025-12-02
+2648,Feature Request,Medium,Positive,Scheduling AI,0,2025-11-11
+2445,Feature Request,High,Negative,Meal Recommendation AI,0,2026-01-02
+5199,Feature Request,High,Neutral,Scheduling AI,0,2025-12-11
+4923,Feature Request,Medium,Neutral,Grocery List AI,0,2025-11-22
+1253,AI Accuracy,Low,Positive,Scheduling AI,1,2026-02-02
+4183,UX Issue,Low,Neutral,Meal Recommendation AI,0,2025-08-19
+3557,Bug,Low,Negative,Meal Recommendation AI,1,2026-01-30
+1098,Bug,Low,Neutral,Grocery List AI,0,2026-01-30
+3200,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-09-10
+3961,AI Accuracy,High,Positive,Grocery List AI,0,2025-09-09
+5973,AI Accuracy,High,Negative,Meal Recommendation AI,1,2026-02-03
+5433,Feature Request,Low,Negative,Scheduling AI,1,2025-11-07
+4777,Feature Request,Low,Positive,Scheduling AI,0,2025-12-11
+3869,AI Accuracy,Low,Positive,Grocery List AI,0,2025-11-01
+4234,UX Issue,Low,Negative,Scheduling AI,1,2026-01-26
+4791,Feature Request,High,Negative,Scheduling AI,1,2025-11-10
+1956,Feature Request,Low,Neutral,Grocery List AI,0,2025-11-27
+5067,UX Issue,Medium,Neutral,Grocery List AI,1,2025-09-07
+1160,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-10-15
+5493,UX Issue,High,Negative,Meal Recommendation AI,0,2026-01-06
+2300,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-09-30
+5911,UX Issue,Low,Neutral,Meal Recommendation AI,0,2025-11-19
+4987,Feature Request,Medium,Positive,Scheduling AI,1,2025-08-24
+2527,Bug,High,Negative,Scheduling AI,1,2025-12-12
+2218,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-12-18
+5496,Feature Request,Low,Negative,Meal Recommendation AI,0,2026-01-02
+5735,AI Accuracy,High,Neutral,Grocery List AI,0,2025-10-23
+4104,UX Issue,High,Neutral,Scheduling AI,1,2025-08-17
+3735,AI Accuracy,High,Negative,Scheduling AI,0,2026-01-14
+5555,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2026-01-05
+1954,Feature Request,Medium,Negative,Scheduling AI,0,2025-09-23
+5565,Bug,Medium,Neutral,Grocery List AI,0,2025-10-23
+4446,AI Accuracy,High,Negative,Grocery List AI,0,2025-09-09
+2045,UX Issue,Medium,Negative,Scheduling AI,0,2026-01-20
+2693,Feature Request,High,Neutral,Meal Recommendation AI,0,2026-01-16
+4436,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-12-24
+1562,UX Issue,High,Neutral,Grocery List AI,0,2025-08-17
+3485,Feature Request,High,Positive,Meal Recommendation AI,0,2025-12-20
+4354,UX Issue,Low,Negative,Scheduling AI,1,2025-10-14
+1225,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2026-01-17
+5893,UX Issue,Medium,Negative,Meal Recommendation AI,1,2025-12-19
+1959,Feature Request,High,Neutral,Grocery List AI,0,2025-09-19
+5548,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-09-01
+4067,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-12-22
+1815,Feature Request,High,Positive,Meal Recommendation AI,0,2025-08-25
+5754,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-08-13
+5642,Feature Request,High,Positive,Scheduling AI,0,2025-11-10
+4120,AI Accuracy,Medium,Negative,Grocery List AI,0,2026-01-21
+1016,Bug,Medium,Neutral,Grocery List AI,0,2025-10-18
+2243,UX Issue,Low,Negative,Scheduling AI,0,2025-08-17
+3205,AI Accuracy,Medium,Positive,Scheduling AI,0,2025-11-01
+3524,AI Accuracy,Low,Positive,Grocery List AI,0,2025-08-21
+2069,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-10-26
+4444,Bug,Low,Negative,Scheduling AI,1,2025-11-11
+3565,Bug,Low,Negative,Meal Recommendation AI,0,2025-09-16
+2060,UX Issue,High,Neutral,Scheduling AI,1,2025-11-16
+3327,UX Issue,High,Neutral,Grocery List AI,1,2025-12-16
+4420,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-10-16
+1301,Bug,High,Negative,Meal Recommendation AI,1,2026-01-21
+5276,UX Issue,Low,Negative,Scheduling AI,1,2025-12-02
+1606,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-11-09
+4170,UX Issue,High,Negative,Scheduling AI,1,2025-11-21
+1699,Feature Request,High,Positive,Grocery List AI,0,2026-01-26
+2139,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-12-25
+1190,UX Issue,High,Positive,Scheduling AI,1,2025-11-02
+3300,UX Issue,Low,Negative,Meal Recommendation AI,0,2026-01-25
+1980,Feature Request,High,Positive,Scheduling AI,0,2025-10-10
+3975,AI Accuracy,Low,Negative,Scheduling AI,0,2025-09-14
+2184,UX Issue,Medium,Negative,Scheduling AI,1,2025-10-03
+4327,UX Issue,High,Negative,Grocery List AI,1,2025-11-19
+4394,UX Issue,High,Negative,Meal Recommendation AI,1,2025-09-11
+1127,AI Accuracy,Low,Negative,Grocery List AI,1,2025-08-30
+3065,UX Issue,High,Positive,Scheduling AI,0,2025-11-07
+2816,UX Issue,Low,Neutral,Scheduling AI,0,2026-01-28
+1569,UX Issue,Medium,Positive,Grocery List AI,1,2025-09-06
+2895,UX Issue,Low,Negative,Grocery List AI,1,2025-09-22
+3733,Feature Request,Low,Neutral,Meal Recommendation AI,0,2025-10-17
+4863,Feature Request,Medium,Negative,Scheduling AI,0,2025-08-13
+5721,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-08-31
+5014,Feature Request,Low,Positive,Scheduling AI,1,2025-12-09
+3901,UX Issue,Low,Positive,Scheduling AI,1,2025-11-11
+2686,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-12-12
+4009,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-10-06
+1154,AI Accuracy,High,Positive,Meal Recommendation AI,1,2025-10-20
+3537,Feature Request,Low,Positive,Grocery List AI,0,2025-12-19
+2409,Feature Request,Low,Negative,Scheduling AI,1,2025-09-26
+5057,Feature Request,Low,Negative,Grocery List AI,1,2025-08-24
+1784,UX Issue,Low,Neutral,Grocery List AI,1,2025-09-22
+4175,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-09-29
+5341,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-12-20
+3806,AI Accuracy,Low,Negative,Scheduling AI,1,2026-01-31
+1537,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-08-11
+2841,AI Accuracy,Low,Positive,Scheduling AI,1,2026-01-12
+3455,AI Accuracy,High,Positive,Meal Recommendation AI,1,2025-08-14
+1524,UX Issue,High,Negative,Grocery List AI,1,2026-01-18
+3950,Feature Request,Low,Negative,Grocery List AI,0,2025-11-13
+5131,Bug,Low,Positive,Meal Recommendation AI,1,2025-09-02
+5780,Bug,High,Negative,Grocery List AI,0,2026-01-31
+5115,UX Issue,High,Neutral,Grocery List AI,1,2026-01-06
+3368,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2026-02-04
+4847,UX Issue,Low,Negative,Grocery List AI,0,2025-11-11
+5495,Feature Request,Low,Negative,Scheduling AI,0,2025-11-15
+3701,AI Accuracy,Medium,Neutral,Grocery List AI,0,2025-08-15
+1971,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-11-28
+2166,Feature Request,Low,Neutral,Scheduling AI,1,2026-01-05
+5929,UX Issue,Medium,Negative,Scheduling AI,0,2025-11-06
+3774,UX Issue,Low,Neutral,Grocery List AI,0,2025-11-04
+2982,UX Issue,High,Negative,Scheduling AI,0,2025-10-01
+1853,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-09-02
+5146,UX Issue,Low,Positive,Scheduling AI,1,2026-01-20
+4736,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-12-13
+4769,AI Accuracy,Low,Negative,Grocery List AI,1,2025-09-18
+1574,AI Accuracy,High,Negative,Scheduling AI,0,2026-01-16
+4261,Feature Request,Medium,Positive,Meal Recommendation AI,0,2025-11-15
+2148,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-08-27
+2715,UX Issue,High,Negative,Grocery List AI,1,2025-09-07
+5777,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-10-19
+5933,Bug,High,Negative,Meal Recommendation AI,1,2025-09-03
+4854,AI Accuracy,Low,Positive,Scheduling AI,1,2025-10-15
+3491,UX Issue,Medium,Positive,Scheduling AI,0,2026-01-19
+3660,Bug,Low,Neutral,Scheduling AI,1,2025-08-13
+4124,Feature Request,Medium,Negative,Scheduling AI,1,2025-09-09
+4051,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-08-11
+1004,Feature Request,High,Positive,Grocery List AI,0,2025-08-21
+5869,UX Issue,Low,Negative,Grocery List AI,1,2025-10-02
+1876,UX Issue,Low,Positive,Scheduling AI,0,2026-02-02
+1991,AI Accuracy,High,Positive,Meal Recommendation AI,1,2026-01-19
+5142,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-12-17
+5364,Feature Request,Low,Negative,Scheduling AI,0,2025-10-06
+5465,UX Issue,Medium,Negative,Scheduling AI,1,2025-11-07
+1635,UX Issue,Low,Negative,Scheduling AI,1,2025-11-10
+2693,Feature Request,High,Negative,Grocery List AI,0,2026-01-30
+2682,Feature Request,Low,Positive,Scheduling AI,1,2025-09-02
+5752,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-12-12
+1119,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-08-16
+1830,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-09-11
+4675,Feature Request,Medium,Positive,Grocery List AI,0,2025-10-26
+2369,Feature Request,Medium,Negative,Grocery List AI,0,2026-01-07
+1740,Bug,Low,Neutral,Grocery List AI,0,2025-09-07
+1116,AI Accuracy,Low,Negative,Grocery List AI,1,2025-10-17
+3838,AI Accuracy,Medium,Neutral,Scheduling AI,0,2025-08-29
+2150,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2026-01-26
+2931,AI Accuracy,Medium,Negative,Scheduling AI,1,2025-11-06
+2012,AI Accuracy,High,Positive,Grocery List AI,0,2025-08-12
+2664,Bug,High,Negative,Scheduling AI,1,2026-01-07
+2081,AI Accuracy,Low,Negative,Scheduling AI,1,2025-12-22
+5729,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-12-16
+1512,Feature Request,Low,Negative,Scheduling AI,0,2025-10-27
+3849,UX Issue,Low,Neutral,Meal Recommendation AI,0,2025-09-30
+1559,Feature Request,Medium,Positive,Grocery List AI,1,2026-01-25
+4672,AI Accuracy,High,Negative,Scheduling AI,1,2025-11-15
+5583,UX Issue,Low,Neutral,Grocery List AI,0,2025-09-30
+5992,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2026-01-30
+4343,AI Accuracy,Low,Negative,Grocery List AI,0,2025-11-30
+5070,Bug,High,Negative,Grocery List AI,1,2025-12-05
+5799,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-09-25
+2470,UX Issue,Medium,Neutral,Grocery List AI,1,2025-09-21
+1580,UX Issue,Low,Negative,Grocery List AI,0,2026-01-08
+3294,AI Accuracy,High,Positive,Grocery List AI,1,2025-12-29
+4147,Bug,High,Neutral,Scheduling AI,0,2025-12-24
+5249,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-10-11
+2679,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-09-09
+4506,Bug,Medium,Neutral,Scheduling AI,1,2025-12-21
+3744,UX Issue,Low,Negative,Scheduling AI,0,2025-08-23
+4356,Bug,High,Negative,Meal Recommendation AI,0,2025-12-18
+5045,AI Accuracy,High,Positive,Grocery List AI,0,2025-12-28
+2243,UX Issue,High,Positive,Scheduling AI,1,2025-11-26
+4118,AI Accuracy,High,Neutral,Scheduling AI,0,2025-10-01
+3141,Feature Request,Low,Negative,Scheduling AI,0,2025-08-31
+4059,Bug,Low,Positive,Grocery List AI,1,2025-09-09
+5548,AI Accuracy,High,Negative,Scheduling AI,1,2026-02-04
+3959,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-08-29
+3265,AI Accuracy,High,Negative,Grocery List AI,1,2025-09-22
+3479,UX Issue,Low,Neutral,Meal Recommendation AI,0,2025-11-28
+5646,UX Issue,Low,Negative,Meal Recommendation AI,1,2026-01-06
+2635,Bug,High,Positive,Scheduling AI,1,2025-10-13
+2757,UX Issue,Low,Negative,Scheduling AI,0,2026-01-28
+5452,AI Accuracy,High,Positive,Scheduling AI,1,2025-10-15
+3070,AI Accuracy,High,Negative,Meal Recommendation AI,0,2026-01-17
+3849,AI Accuracy,High,Negative,Grocery List AI,1,2025-12-08
+4251,AI Accuracy,High,Positive,Scheduling AI,1,2025-08-31
+4730,AI Accuracy,Medium,Negative,Scheduling AI,1,2025-11-18
+3489,Bug,High,Negative,Meal Recommendation AI,0,2025-12-31
+2631,UX Issue,Low,Positive,Grocery List AI,0,2025-12-12
+3816,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-12-23
+2015,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-09-03
+2348,Bug,Medium,Negative,Meal Recommendation AI,1,2025-11-20
+5611,Feature Request,Medium,Negative,Scheduling AI,1,2025-11-19
+4087,AI Accuracy,Low,Positive,Grocery List AI,0,2025-10-27
+3839,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2025-08-13
+1335,UX Issue,High,Negative,Scheduling AI,1,2026-01-06
+5592,AI Accuracy,Low,Negative,Scheduling AI,1,2025-12-28
+1895,UX Issue,High,Neutral,Scheduling AI,0,2026-01-23
+4546,UX Issue,High,Negative,Scheduling AI,0,2025-10-06
+1851,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-09-14
+2687,Bug,Medium,Neutral,Scheduling AI,1,2025-08-17
+2931,Feature Request,High,Negative,Meal Recommendation AI,0,2025-10-16
+4746,Feature Request,Low,Neutral,Scheduling AI,1,2025-09-03
+3427,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-12-22
+2568,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-10-09
+5000,Feature Request,High,Negative,Scheduling AI,0,2026-01-01
+3738,UX Issue,High,Negative,Scheduling AI,0,2025-09-02
+4498,AI Accuracy,Low,Neutral,Scheduling AI,0,2026-01-29
+4913,UX Issue,Low,Neutral,Scheduling AI,0,2025-10-18
+2066,Feature Request,High,Neutral,Grocery List AI,0,2025-10-14
+5380,UX Issue,Low,Negative,Scheduling AI,1,2025-12-16
+3444,AI Accuracy,High,Positive,Scheduling AI,0,2025-12-21
+5107,Feature Request,Low,Negative,Scheduling AI,0,2026-01-16
+4373,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-11-01
+4969,AI Accuracy,High,Neutral,Scheduling AI,0,2025-12-29
+3546,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-10-24
+1753,AI Accuracy,High,Positive,Meal Recommendation AI,0,2026-01-04
+3082,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-09-04
+3774,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-12-09
+3896,AI Accuracy,Medium,Positive,Grocery List AI,1,2025-08-22
+5185,Bug,Medium,Neutral,Scheduling AI,0,2025-09-10
+1775,Bug,High,Neutral,Meal Recommendation AI,0,2025-11-15
+2625,Bug,Medium,Positive,Scheduling AI,0,2025-12-17
+4069,AI Accuracy,Medium,Neutral,Meal Recommendation AI,1,2025-12-15
+1417,UX Issue,Low,Neutral,Grocery List AI,1,2025-11-11
+1114,Bug,High,Negative,Meal Recommendation AI,1,2025-10-13
+1616,Feature Request,Low,Neutral,Scheduling AI,0,2025-09-08
+4974,AI Accuracy,High,Neutral,Scheduling AI,1,2025-12-14
+4267,AI Accuracy,Low,Negative,Grocery List AI,0,2025-12-01
+1825,UX Issue,Medium,Neutral,Scheduling AI,0,2025-10-11
+2516,Bug,High,Neutral,Scheduling AI,1,2025-12-24
+4146,UX Issue,Low,Positive,Meal Recommendation AI,0,2025-11-15
+1412,UX Issue,Low,Neutral,Scheduling AI,1,2025-09-07
+1728,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-12-03
+4348,Feature Request,Medium,Positive,Grocery List AI,1,2025-09-21
+3808,Feature Request,High,Negative,Scheduling AI,1,2025-10-15
+1675,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-09-23
+4465,Feature Request,High,Neutral,Scheduling AI,0,2025-08-20
+3504,Bug,Low,Negative,Meal Recommendation AI,0,2025-12-13
+3967,AI Accuracy,Medium,Neutral,Grocery List AI,1,2025-12-02
+3786,UX Issue,High,Negative,Meal Recommendation AI,0,2026-02-03
+2122,AI Accuracy,Low,Positive,Scheduling AI,1,2025-09-26
+5079,Feature Request,Medium,Negative,Meal Recommendation AI,1,2025-11-19
+2571,UX Issue,Low,Positive,Scheduling AI,0,2026-01-04
+3143,UX Issue,Low,Negative,Grocery List AI,1,2025-10-28
+2687,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-09-28
+5132,UX Issue,Low,Negative,Scheduling AI,0,2025-10-24
+4851,Bug,Medium,Neutral,Scheduling AI,0,2025-09-16
+4440,UX Issue,Medium,Negative,Scheduling AI,0,2025-09-10
+4766,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-11-08
+3326,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-12-18
+3914,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-09-22
+5968,AI Accuracy,High,Positive,Grocery List AI,1,2025-08-15
+4952,Bug,High,Neutral,Scheduling AI,0,2025-09-09
+1595,Bug,Low,Positive,Scheduling AI,1,2025-11-10
+1728,AI Accuracy,High,Positive,Grocery List AI,1,2025-08-29
+2365,Bug,Medium,Negative,Grocery List AI,0,2026-01-28
+5492,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-10-27
+1698,AI Accuracy,Medium,Neutral,Meal Recommendation AI,1,2026-01-20
+1395,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-12-27
+5171,Bug,Low,Neutral,Meal Recommendation AI,0,2025-10-22
+5360,Feature Request,Medium,Neutral,Meal Recommendation AI,0,2026-01-09
+3502,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-10-24
+2819,UX Issue,High,Negative,Grocery List AI,0,2025-10-23
+1717,UX Issue,Medium,Negative,Grocery List AI,1,2025-09-12
+3782,AI Accuracy,Low,Neutral,Grocery List AI,1,2026-01-01
+5946,Bug,High,Negative,Scheduling AI,0,2025-10-15
+4577,Feature Request,Low,Positive,Scheduling AI,1,2025-12-15
+1143,UX Issue,Medium,Positive,Meal Recommendation AI,0,2025-09-15
+5980,Bug,High,Positive,Grocery List AI,1,2025-12-14
+4140,UX Issue,High,Negative,Scheduling AI,0,2025-11-06
+5491,Bug,High,Negative,Scheduling AI,0,2025-11-16
+3938,Feature Request,High,Negative,Grocery List AI,0,2025-10-24
+4636,UX Issue,High,Neutral,Scheduling AI,0,2025-12-01
+4222,AI Accuracy,High,Neutral,Scheduling AI,1,2025-10-15
+2167,Bug,Low,Positive,Grocery List AI,1,2026-01-05
+3616,UX Issue,Low,Neutral,Scheduling AI,0,2025-12-06
+2062,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-10-27
+3156,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-23
+3982,UX Issue,High,Neutral,Grocery List AI,1,2025-10-30
+4294,UX Issue,Medium,Positive,Scheduling AI,0,2026-01-02
+5729,Feature Request,Medium,Positive,Scheduling AI,0,2025-12-08
+2156,Bug,Low,Positive,Grocery List AI,0,2026-02-02
+1732,AI Accuracy,High,Neutral,Scheduling AI,1,2026-01-19
+5330,Feature Request,Low,Negative,Grocery List AI,1,2025-11-19
+5846,AI Accuracy,High,Negative,Grocery List AI,0,2025-12-21
+1953,Bug,Medium,Negative,Scheduling AI,0,2025-08-23
+3539,Feature Request,Low,Neutral,Meal Recommendation AI,0,2026-01-01
+4324,UX Issue,Low,Neutral,Scheduling AI,1,2025-09-29
+4301,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-10-16
+2542,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-09-01
+2191,UX Issue,High,Negative,Scheduling AI,0,2025-09-26
+3993,Feature Request,Medium,Positive,Meal Recommendation AI,1,2025-12-06
+3681,UX Issue,Low,Neutral,Grocery List AI,0,2025-10-31
+2217,UX Issue,Medium,Neutral,Grocery List AI,0,2025-09-13
+2540,UX Issue,High,Negative,Meal Recommendation AI,0,2025-09-02
+4236,Feature Request,High,Negative,Grocery List AI,0,2025-08-11
+3386,AI Accuracy,Low,Negative,Scheduling AI,0,2025-11-07
+4719,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-09-22
+2388,Feature Request,High,Positive,Meal Recommendation AI,0,2025-08-27
+2856,Feature Request,Low,Positive,Scheduling AI,1,2025-12-08
+2365,AI Accuracy,Low,Positive,Grocery List AI,0,2026-01-18
+1499,AI Accuracy,Low,Positive,Scheduling AI,1,2025-11-02
+2680,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2025-09-03
+1510,AI Accuracy,High,Negative,Grocery List AI,1,2026-01-20
+5312,UX Issue,High,Positive,Scheduling AI,0,2026-01-26
+2324,Feature Request,Medium,Negative,Scheduling AI,0,2025-10-24
+2155,Feature Request,Medium,Positive,Grocery List AI,0,2025-11-21
+2827,UX Issue,Low,Neutral,Scheduling AI,1,2025-09-08
+4141,UX Issue,Medium,Positive,Scheduling AI,0,2026-01-20
+4486,Feature Request,Low,Neutral,Meal Recommendation AI,1,2026-01-24
+2810,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2025-11-22
+3923,Bug,Low,Neutral,Meal Recommendation AI,0,2025-08-10
+3214,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-09-29
+5186,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2026-01-09
+1713,Feature Request,Low,Positive,Meal Recommendation AI,0,2026-01-24
+4602,AI Accuracy,Low,Positive,Grocery List AI,0,2026-01-06
+5134,Feature Request,Low,Positive,Meal Recommendation AI,1,2026-01-27
+4522,AI Accuracy,High,Negative,Scheduling AI,0,2025-12-14
+5268,AI Accuracy,Medium,Positive,Grocery List AI,1,2025-12-13
+5748,Bug,Medium,Negative,Scheduling AI,0,2025-08-24
+5849,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2025-08-19
+2243,Feature Request,High,Neutral,Meal Recommendation AI,1,2025-12-18
+4709,AI Accuracy,Medium,Negative,Scheduling AI,0,2026-02-01
+2081,UX Issue,High,Positive,Scheduling AI,0,2025-11-18
+1455,Feature Request,Low,Positive,Scheduling AI,1,2025-08-10
+5924,UX Issue,Low,Neutral,Grocery List AI,0,2025-11-06
+1894,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-11-18
+2384,AI Accuracy,High,Positive,Scheduling AI,0,2025-08-30
+2958,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-10-25
+4072,AI Accuracy,Low,Negative,Scheduling AI,1,2025-10-17
+2996,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-12-09
+5285,Bug,Medium,Negative,Grocery List AI,0,2025-11-15
+1504,Bug,Low,Negative,Meal Recommendation AI,0,2025-09-26
+2214,Feature Request,Medium,Neutral,Scheduling AI,0,2026-01-14
+2531,Feature Request,High,Positive,Meal Recommendation AI,1,2025-09-27
+4440,Feature Request,High,Positive,Grocery List AI,0,2025-11-18
+1823,AI Accuracy,High,Negative,Grocery List AI,0,2025-10-29
+1928,Bug,High,Negative,Meal Recommendation AI,1,2025-08-14
+1133,Feature Request,Medium,Negative,Scheduling AI,1,2025-12-29
+3105,UX Issue,High,Negative,Grocery List AI,0,2025-08-28
+4627,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-08-13
+5780,UX Issue,Low,Positive,Meal Recommendation AI,0,2025-10-11
+2852,UX Issue,Low,Positive,Grocery List AI,0,2026-01-10
+5910,Bug,Low,Negative,Grocery List AI,1,2025-09-22
+5175,UX Issue,Medium,Positive,Scheduling AI,1,2025-12-17
+3933,UX Issue,Medium,Positive,Scheduling AI,1,2025-12-29
+4284,Bug,High,Negative,Scheduling AI,0,2025-09-20
+5298,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-12-25
+3811,UX Issue,Low,Negative,Grocery List AI,0,2025-12-30
+2250,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-09-04
+4512,Feature Request,Low,Positive,Grocery List AI,1,2025-09-18
+2256,Bug,Medium,Negative,Grocery List AI,0,2025-12-18
+4376,AI Accuracy,Medium,Neutral,Grocery List AI,0,2025-09-16
+4486,Bug,Medium,Neutral,Scheduling AI,0,2025-12-21
+4584,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-08-26
+2396,Bug,Low,Positive,Meal Recommendation AI,0,2026-01-07
+4637,Feature Request,Low,Neutral,Grocery List AI,1,2026-01-24
+4330,Feature Request,Medium,Positive,Meal Recommendation AI,0,2025-10-12
+3703,AI Accuracy,Medium,Neutral,Scheduling AI,1,2025-11-15
+1470,Bug,Low,Neutral,Meal Recommendation AI,0,2025-12-23
+2353,Feature Request,Medium,Negative,Grocery List AI,0,2026-02-03
+3783,AI Accuracy,High,Negative,Scheduling AI,1,2026-01-19
+3831,Feature Request,Low,Positive,Scheduling AI,0,2025-09-20
+1357,AI Accuracy,Medium,Neutral,Grocery List AI,1,2026-01-18
+4019,Bug,High,Neutral,Meal Recommendation AI,0,2026-01-14
+1667,AI Accuracy,Low,Positive,Grocery List AI,0,2025-11-14
+5468,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-12-09
+2145,UX Issue,Medium,Negative,Meal Recommendation AI,1,2025-12-14
+5185,AI Accuracy,High,Positive,Scheduling AI,1,2026-02-04
+4719,AI Accuracy,High,Neutral,Grocery List AI,1,2025-12-06
+3745,AI Accuracy,Medium,Positive,Scheduling AI,0,2025-08-30
+1539,UX Issue,High,Negative,Grocery List AI,1,2026-01-05
+3779,AI Accuracy,Low,Positive,Grocery List AI,1,2025-12-01
+5964,UX Issue,Medium,Negative,Scheduling AI,0,2025-09-11
+5136,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-12-14
+5835,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-11-02
+4775,Feature Request,High,Negative,Meal Recommendation AI,0,2025-09-08
+3508,AI Accuracy,Medium,Negative,Grocery List AI,0,2026-01-13
+3779,Bug,Low,Negative,Grocery List AI,1,2025-09-15
+1924,Bug,High,Positive,Scheduling AI,0,2025-09-04
+3956,Feature Request,Low,Neutral,Scheduling AI,0,2025-09-27
+2581,UX Issue,Low,Negative,Grocery List AI,1,2025-11-10
+4324,Bug,Low,Negative,Meal Recommendation AI,0,2025-09-10
+5485,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-03
+1255,AI Accuracy,High,Negative,Scheduling AI,0,2025-10-19
+5804,AI Accuracy,Low,Negative,Grocery List AI,0,2025-12-27
+2838,Feature Request,High,Negative,Grocery List AI,0,2025-10-07
+2944,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-12-28
+1009,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-10-08
+3871,Bug,Medium,Negative,Meal Recommendation AI,0,2026-01-18
+1797,Bug,Medium,Negative,Scheduling AI,0,2025-08-20
+5972,UX Issue,High,Negative,Grocery List AI,0,2025-09-03
+2015,AI Accuracy,Low,Positive,Scheduling AI,0,2025-09-15
+2824,Feature Request,Low,Negative,Grocery List AI,0,2025-12-30
+5469,UX Issue,Medium,Negative,Scheduling AI,0,2026-01-31
+4136,AI Accuracy,High,Positive,Grocery List AI,0,2025-11-24
+3193,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-09-23
+1223,Bug,Low,Positive,Meal Recommendation AI,1,2025-12-26
+5948,Feature Request,Low,Neutral,Meal Recommendation AI,0,2026-01-26
+5158,Feature Request,Medium,Positive,Scheduling AI,0,2025-09-04
+4925,Bug,Low,Neutral,Meal Recommendation AI,1,2025-11-29
+5784,UX Issue,High,Neutral,Grocery List AI,1,2026-01-12
+5000,UX Issue,High,Negative,Scheduling AI,0,2025-11-19
+2633,UX Issue,Medium,Negative,Grocery List AI,1,2025-08-20
+3152,AI Accuracy,Low,Negative,Scheduling AI,0,2025-09-13
+1510,UX Issue,Medium,Positive,Grocery List AI,0,2025-10-19
+1384,Feature Request,Low,Positive,Grocery List AI,0,2026-01-12
+1404,UX Issue,High,Negative,Scheduling AI,1,2025-09-03
+5613,Bug,Medium,Positive,Scheduling AI,0,2026-01-29
+5571,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-11-24
+3000,UX Issue,High,Negative,Meal Recommendation AI,0,2025-10-21
+3756,UX Issue,Medium,Neutral,Grocery List AI,0,2025-10-29
+2668,UX Issue,Medium,Negative,Grocery List AI,0,2025-10-06
+2460,Feature Request,Low,Positive,Grocery List AI,1,2026-01-24
+4636,AI Accuracy,High,Neutral,Scheduling AI,0,2025-11-12
+3724,UX Issue,High,Negative,Scheduling AI,0,2026-02-02
+5809,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-11-18
+5178,UX Issue,High,Negative,Grocery List AI,1,2025-11-12
+3048,UX Issue,Low,Positive,Meal Recommendation AI,0,2026-01-26
+5146,Feature Request,Medium,Neutral,Scheduling AI,0,2026-01-03
+5780,Bug,Medium,Negative,Scheduling AI,0,2025-12-21
+1716,UX Issue,Medium,Negative,Scheduling AI,1,2025-12-08
+5544,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2025-12-15
+5976,UX Issue,Low,Neutral,Scheduling AI,1,2026-01-30
+5583,UX Issue,Low,Negative,Grocery List AI,0,2025-09-28
+2823,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2026-01-07
+3081,AI Accuracy,Low,Negative,Scheduling AI,1,2025-10-09
+4419,UX Issue,High,Negative,Meal Recommendation AI,0,2025-08-21
+2574,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-10-31
+1249,AI Accuracy,Low,Negative,Scheduling AI,0,2025-11-29
+1673,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-09-01
+5533,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-12-07
+3165,Bug,High,Negative,Meal Recommendation AI,1,2025-10-04
+1770,AI Accuracy,Medium,Neutral,Scheduling AI,1,2025-11-13
+4962,UX Issue,Low,Negative,Grocery List AI,0,2025-12-26
+5363,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2025-10-15
+2984,UX Issue,Medium,Positive,Meal Recommendation AI,1,2025-12-02
+2077,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-11-18
+1235,AI Accuracy,Medium,Negative,Scheduling AI,1,2025-12-04
+1388,UX Issue,High,Neutral,Scheduling AI,1,2025-08-13
+4037,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-10
+5858,AI Accuracy,Low,Negative,Scheduling AI,1,2025-10-10
+2848,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-12-30
+5719,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-12-03
+3814,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2025-11-11
+4374,AI Accuracy,Medium,Neutral,Meal Recommendation AI,1,2025-09-25
+4278,Feature Request,Low,Negative,Grocery List AI,1,2026-01-02
+2252,UX Issue,High,Neutral,Scheduling AI,1,2025-12-28
+4981,UX Issue,High,Neutral,Scheduling AI,0,2025-11-30
+5673,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2025-12-05
+3122,Bug,High,Neutral,Meal Recommendation AI,0,2025-11-09
+5530,UX Issue,Low,Neutral,Grocery List AI,0,2025-09-06
+3150,AI Accuracy,Medium,Neutral,Scheduling AI,0,2025-09-27
+5859,UX Issue,Medium,Neutral,Grocery List AI,0,2025-10-19
+2329,AI Accuracy,High,Neutral,Scheduling AI,1,2025-11-08
+2358,AI Accuracy,High,Negative,Grocery List AI,1,2025-11-30
+3482,UX Issue,Low,Neutral,Meal Recommendation AI,0,2025-11-18
+5542,Bug,High,Neutral,Grocery List AI,0,2025-08-11
+3017,UX Issue,Low,Negative,Grocery List AI,0,2026-01-07
+2331,Feature Request,High,Neutral,Meal Recommendation AI,1,2025-11-23
+5344,Bug,High,Neutral,Scheduling AI,0,2026-01-04
+5261,AI Accuracy,Low,Negative,Scheduling AI,1,2025-11-10
+2358,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-12-28
+5637,UX Issue,Low,Negative,Grocery List AI,0,2025-09-21
+5854,UX Issue,Medium,Negative,Grocery List AI,1,2025-10-27
+4177,UX Issue,Medium,Positive,Grocery List AI,1,2025-09-16
+3128,Bug,Medium,Negative,Scheduling AI,1,2025-11-29
+3180,Feature Request,High,Neutral,Grocery List AI,0,2025-09-10
+5892,UX Issue,High,Neutral,Scheduling AI,0,2026-01-08
+1137,AI Accuracy,Medium,Neutral,Grocery List AI,1,2026-01-22
+4472,Feature Request,High,Positive,Meal Recommendation AI,0,2025-08-17
+3832,Bug,High,Positive,Meal Recommendation AI,1,2025-11-20
+4579,Feature Request,Low,Negative,Scheduling AI,0,2025-10-12
+4031,AI Accuracy,High,Neutral,Scheduling AI,0,2025-08-22
+5164,UX Issue,Low,Neutral,Meal Recommendation AI,0,2026-01-08
+3593,AI Accuracy,High,Positive,Meal Recommendation AI,1,2025-11-08
+5300,AI Accuracy,Low,Positive,Grocery List AI,0,2026-01-04
+4818,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-09-21
+5138,UX Issue,Medium,Neutral,Scheduling AI,0,2025-09-02
+4823,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2025-11-02
+5042,AI Accuracy,Low,Positive,Scheduling AI,1,2026-01-19
+2906,UX Issue,Low,Negative,Scheduling AI,0,2025-10-11
+1760,UX Issue,Medium,Positive,Grocery List AI,0,2025-11-20
+4445,UX Issue,High,Positive,Grocery List AI,0,2025-12-12
+1899,AI Accuracy,Low,Neutral,Grocery List AI,0,2026-01-26
+5455,UX Issue,Low,Neutral,Grocery List AI,1,2025-11-17
+3947,Feature Request,Medium,Positive,Meal Recommendation AI,0,2025-09-24
+2719,AI Accuracy,Low,Negative,Grocery List AI,0,2025-08-13
+1280,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-12
+4266,UX Issue,High,Negative,Grocery List AI,0,2025-08-20
+2887,Bug,Medium,Neutral,Grocery List AI,1,2025-11-18
+4266,Feature Request,Low,Positive,Scheduling AI,0,2025-12-07
+1666,Feature Request,High,Neutral,Meal Recommendation AI,1,2025-12-25
+5188,UX Issue,Medium,Negative,Scheduling AI,0,2025-10-12
+1671,UX Issue,High,Negative,Grocery List AI,0,2025-10-19
+2969,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-11-26
+5156,UX Issue,High,Positive,Grocery List AI,0,2025-09-02
+4122,Bug,Medium,Neutral,Scheduling AI,0,2025-10-26
+5699,UX Issue,Medium,Positive,Meal Recommendation AI,0,2026-01-23
+5777,Bug,High,Negative,Scheduling AI,1,2026-01-21
+4900,Feature Request,Medium,Negative,Grocery List AI,0,2025-12-31
+1523,AI Accuracy,Medium,Negative,Grocery List AI,1,2026-01-21
+3393,Bug,Low,Neutral,Grocery List AI,0,2025-10-11
+4117,AI Accuracy,Medium,Neutral,Meal Recommendation AI,1,2025-11-22
+3593,UX Issue,Medium,Negative,Scheduling AI,0,2025-12-11
+2968,AI Accuracy,Low,Negative,Scheduling AI,0,2025-11-02
+2753,AI Accuracy,Low,Positive,Grocery List AI,0,2025-09-26
+3296,UX Issue,Medium,Neutral,Scheduling AI,0,2025-12-15
+3261,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-09-20
+3286,UX Issue,Medium,Neutral,Grocery List AI,0,2025-08-16
+5202,UX Issue,Low,Neutral,Grocery List AI,1,2025-11-13
+3878,AI Accuracy,High,Negative,Grocery List AI,1,2026-01-07
+5143,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-12-14
+4644,UX Issue,Medium,Positive,Grocery List AI,1,2025-09-01
+5432,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-09-07
+3055,Feature Request,Low,Negative,Grocery List AI,1,2025-08-11
+5720,Feature Request,Low,Negative,Grocery List AI,0,2026-01-15
+2276,Feature Request,Low,Neutral,Scheduling AI,0,2025-10-16
+3766,Feature Request,Low,Negative,Grocery List AI,0,2025-08-18
+1302,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-09-20
+1638,Feature Request,Medium,Positive,Grocery List AI,0,2025-11-21
+1055,AI Accuracy,Medium,Positive,Grocery List AI,0,2026-01-06
+5821,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-03
+1525,Feature Request,High,Negative,Grocery List AI,0,2025-12-16
+5569,UX Issue,Low,Negative,Scheduling AI,1,2025-08-28
+5123,Feature Request,Medium,Negative,Meal Recommendation AI,0,2025-09-12
+3125,Feature Request,Low,Negative,Scheduling AI,1,2025-11-19
+4287,Bug,Low,Neutral,Grocery List AI,1,2026-01-14
+1364,Bug,Medium,Positive,Meal Recommendation AI,0,2025-12-03
+5621,UX Issue,Medium,Positive,Grocery List AI,0,2026-01-15
+5978,AI Accuracy,High,Neutral,Scheduling AI,1,2025-09-29
+2646,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-10-21
+1918,UX Issue,High,Negative,Meal Recommendation AI,0,2025-10-12
+3797,UX Issue,Low,Negative,Scheduling AI,0,2025-10-04
+2531,Feature Request,Low,Neutral,Scheduling AI,1,2025-09-15
+4345,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-12-31
+2906,UX Issue,Low,Positive,Meal Recommendation AI,0,2025-12-20
+4086,AI Accuracy,Medium,Neutral,Scheduling AI,0,2026-01-04
+5580,UX Issue,Medium,Negative,Grocery List AI,0,2025-08-15
+3075,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-12-13
+1713,Bug,High,Negative,Scheduling AI,0,2025-08-28
+2062,AI Accuracy,High,Neutral,Grocery List AI,1,2025-08-22
+2976,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2026-01-13
+2296,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-08-18
+1125,UX Issue,Low,Neutral,Scheduling AI,0,2026-02-03
+5632,UX Issue,Low,Negative,Grocery List AI,1,2025-08-23
+4596,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-09-01
+4283,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-10-18
+2603,UX Issue,Low,Positive,Grocery List AI,0,2025-10-04
+1066,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-11-30
+1232,Feature Request,High,Positive,Grocery List AI,0,2025-11-26
+3156,UX Issue,High,Negative,Meal Recommendation AI,1,2025-08-25
+2169,UX Issue,High,Neutral,Grocery List AI,1,2026-01-07
+3158,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-10-09
+5206,Bug,Low,Neutral,Scheduling AI,1,2025-08-24
+2493,UX Issue,Medium,Negative,Meal Recommendation AI,1,2025-10-15
+5718,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-12-22
+5007,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2026-01-20
+3472,UX Issue,High,Negative,Grocery List AI,1,2026-01-05
+3660,AI Accuracy,Medium,Neutral,Scheduling AI,0,2025-08-27
+3739,UX Issue,Medium,Positive,Grocery List AI,1,2025-12-17
+2761,Bug,Medium,Neutral,Grocery List AI,1,2025-10-06
+4514,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2025-08-18
+2975,AI Accuracy,Low,Negative,Grocery List AI,0,2026-01-21
+3362,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-08-13
+1876,UX Issue,Low,Neutral,Scheduling AI,0,2025-12-18
+4812,AI Accuracy,Low,Negative,Grocery List AI,1,2025-08-17
+4448,AI Accuracy,High,Neutral,Grocery List AI,1,2026-01-26
+2312,Feature Request,Medium,Positive,Grocery List AI,0,2026-01-16
+2460,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-11-27
+3709,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2026-01-28
+3324,Bug,Low,Positive,Grocery List AI,1,2025-08-16
+2733,AI Accuracy,Low,Negative,Grocery List AI,0,2026-01-02
+2605,Bug,Low,Negative,Scheduling AI,1,2025-08-10
+3563,AI Accuracy,Low,Neutral,Scheduling AI,0,2026-02-01
+4421,Bug,High,Negative,Scheduling AI,1,2025-10-20
+4517,UX Issue,High,Negative,Scheduling AI,0,2025-08-22
+3397,Feature Request,Medium,Negative,Scheduling AI,0,2026-01-12
+4735,Bug,Medium,Negative,Meal Recommendation AI,1,2025-12-12
+3870,AI Accuracy,High,Neutral,Scheduling AI,0,2026-01-10
+2160,Bug,Low,Negative,Scheduling AI,0,2026-01-11
+5854,UX Issue,Low,Negative,Grocery List AI,1,2025-12-31
+1242,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-11-26
+3590,AI Accuracy,High,Positive,Scheduling AI,0,2026-01-24
+2063,UX Issue,High,Positive,Scheduling AI,0,2025-09-29
+5324,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-10-12
+3595,UX Issue,High,Neutral,Grocery List AI,0,2025-08-11
+1919,UX Issue,High,Positive,Grocery List AI,0,2025-09-05
+1005,Feature Request,Low,Negative,Grocery List AI,1,2025-09-25
+1467,Feature Request,Low,Positive,Scheduling AI,0,2025-11-14
+5170,UX Issue,Medium,Negative,Grocery List AI,0,2026-01-30
+1003,AI Accuracy,High,Neutral,Scheduling AI,0,2026-01-10
+1645,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-10-15
+1117,AI Accuracy,High,Neutral,Scheduling AI,1,2025-10-25
+3928,AI Accuracy,Low,Positive,Grocery List AI,1,2025-10-08
+3551,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-08-22
+5289,AI Accuracy,Medium,Negative,Scheduling AI,0,2026-01-27
+1846,Bug,Medium,Negative,Meal Recommendation AI,0,2025-12-22
+3762,UX Issue,High,Neutral,Meal Recommendation AI,1,2026-01-22
+2141,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-10-16
+2810,UX Issue,High,Negative,Scheduling AI,0,2025-12-12
+1723,AI Accuracy,Low,Positive,Grocery List AI,0,2025-09-21
+1224,UX Issue,High,Negative,Scheduling AI,1,2026-01-21
+5627,UX Issue,Low,Neutral,Grocery List AI,1,2025-12-30
+5208,UX Issue,Medium,Positive,Scheduling AI,1,2025-08-11
+5654,UX Issue,Medium,Neutral,Scheduling AI,0,2025-10-01
+3048,Bug,Medium,Neutral,Scheduling AI,0,2025-10-11
+5749,Bug,Medium,Negative,Grocery List AI,0,2025-11-13
+5415,UX Issue,High,Negative,Scheduling AI,1,2025-11-25
+2573,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-11-01
+2828,UX Issue,High,Negative,Scheduling AI,0,2025-10-17
+2917,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-09-09
+5234,UX Issue,Low,Neutral,Grocery List AI,0,2025-10-23
+3026,AI Accuracy,Low,Positive,Grocery List AI,0,2025-09-11
+4744,UX Issue,High,Negative,Scheduling AI,0,2025-12-09
+1901,UX Issue,High,Negative,Scheduling AI,1,2025-11-02
+5785,AI Accuracy,High,Negative,Scheduling AI,0,2025-10-10
+3039,Bug,High,Negative,Meal Recommendation AI,0,2026-01-30
+1009,Bug,Low,Negative,Grocery List AI,1,2026-02-01
+1260,Feature Request,Low,Negative,Meal Recommendation AI,0,2025-12-24
+2673,UX Issue,High,Negative,Meal Recommendation AI,0,2025-11-04
+3219,Bug,Medium,Negative,Scheduling AI,0,2025-12-25
+3060,AI Accuracy,Medium,Neutral,Scheduling AI,1,2026-02-02
+4713,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-09-29
+2619,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2026-01-21
+1320,Feature Request,Medium,Positive,Scheduling AI,0,2025-12-20
+2342,AI Accuracy,Low,Negative,Scheduling AI,0,2025-11-12
+3376,Bug,Medium,Neutral,Meal Recommendation AI,1,2025-08-15
+3832,Bug,Medium,Negative,Scheduling AI,1,2025-12-09
+3824,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-12-28
+2994,UX Issue,Low,Positive,Meal Recommendation AI,0,2025-09-27
+3958,Bug,High,Neutral,Meal Recommendation AI,1,2025-08-31
+3038,UX Issue,Low,Negative,Grocery List AI,1,2026-01-01
+4490,Bug,Low,Neutral,Meal Recommendation AI,1,2025-09-01
+4677,UX Issue,High,Neutral,Scheduling AI,1,2025-08-11
+2118,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-12-15
+2604,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-10-10
+5027,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2026-01-22
+1235,Feature Request,Medium,Neutral,Grocery List AI,0,2025-08-26
+2969,UX Issue,High,Positive,Grocery List AI,1,2025-09-02
+5429,UX Issue,High,Negative,Scheduling AI,1,2026-01-06
+2908,UX Issue,Medium,Positive,Grocery List AI,1,2025-11-07
+1375,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-09-23
+4530,Bug,Low,Positive,Grocery List AI,0,2025-08-22
+3635,Bug,Low,Positive,Meal Recommendation AI,1,2025-11-02
+2570,UX Issue,Medium,Negative,Grocery List AI,0,2025-11-28
+3560,Feature Request,Medium,Positive,Grocery List AI,0,2025-08-26
+4391,Feature Request,Medium,Positive,Grocery List AI,1,2025-10-01
+3965,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-12-15
+4643,Bug,Low,Positive,Grocery List AI,0,2025-09-16
+4850,AI Accuracy,Medium,Positive,Meal Recommendation AI,1,2025-12-04
+1872,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-12-31
+2252,Bug,High,Negative,Scheduling AI,1,2025-11-06
+2314,UX Issue,Low,Negative,Grocery List AI,1,2025-09-06
+5820,Feature Request,Medium,Negative,Scheduling AI,0,2025-08-21
+3898,Bug,High,Negative,Scheduling AI,1,2025-09-01
+1077,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-12-14
+3621,Bug,Medium,Negative,Grocery List AI,0,2025-10-19
+5227,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-09-08
+1600,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-11-25
+2065,UX Issue,Medium,Neutral,Grocery List AI,1,2026-01-21
+3136,Bug,Medium,Positive,Meal Recommendation AI,1,2025-10-15
+3449,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-11-28
+3343,UX Issue,High,Negative,Grocery List AI,1,2025-10-12
+2863,Feature Request,Low,Negative,Meal Recommendation AI,0,2026-02-01
+2318,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-11-22
+5711,Feature Request,High,Positive,Scheduling AI,0,2025-09-12
+4597,AI Accuracy,Medium,Positive,Meal Recommendation AI,0,2025-12-25
+4762,AI Accuracy,High,Negative,Grocery List AI,0,2026-01-06
+5670,UX Issue,Medium,Positive,Scheduling AI,1,2025-09-15
+3190,Feature Request,High,Positive,Grocery List AI,1,2025-11-27
+1992,AI Accuracy,Medium,Negative,Scheduling AI,1,2026-01-20
+3712,AI Accuracy,High,Positive,Meal Recommendation AI,1,2025-10-17
+3192,Bug,High,Negative,Meal Recommendation AI,1,2025-10-24
+2248,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-10-21
+4054,Bug,Low,Negative,Grocery List AI,0,2025-10-05
+5598,Feature Request,Low,Negative,Scheduling AI,0,2025-08-27
+5033,Feature Request,Low,Negative,Grocery List AI,1,2026-01-09
+2997,AI Accuracy,Low,Negative,Scheduling AI,0,2026-01-23
+5916,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-09-03
+4687,Feature Request,Medium,Positive,Grocery List AI,1,2025-11-24
+3151,Feature Request,Medium,Neutral,Meal Recommendation AI,0,2025-11-11
+5018,Feature Request,Medium,Negative,Grocery List AI,0,2026-01-05
+4110,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2026-02-02
+2970,Feature Request,Low,Neutral,Grocery List AI,0,2026-01-06
+1197,Feature Request,Low,Negative,Grocery List AI,1,2025-09-09
+3626,Feature Request,Low,Positive,Scheduling AI,1,2025-10-29
+2202,Feature Request,Medium,Negative,Meal Recommendation AI,1,2025-09-24
+3035,Feature Request,Low,Negative,Scheduling AI,1,2025-08-29
+1477,UX Issue,Low,Neutral,Scheduling AI,1,2025-08-19
+2254,AI Accuracy,Medium,Neutral,Meal Recommendation AI,1,2025-08-29
+1922,UX Issue,High,Positive,Grocery List AI,0,2025-10-29
+1419,AI Accuracy,Low,Negative,Scheduling AI,1,2025-11-11
+3204,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-08-22
+3597,UX Issue,High,Positive,Grocery List AI,0,2025-12-03
+2120,AI Accuracy,High,Neutral,Scheduling AI,0,2025-10-10
+4068,AI Accuracy,High,Neutral,Scheduling AI,1,2025-08-31
+1950,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-10-14
+3336,Feature Request,Low,Negative,Grocery List AI,0,2025-08-30
+3243,Bug,High,Positive,Scheduling AI,1,2025-11-10
+3645,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-12-27
+2857,Bug,Medium,Negative,Scheduling AI,1,2025-08-28
+5612,UX Issue,High,Neutral,Meal Recommendation AI,1,2026-01-11
+2865,AI Accuracy,High,Positive,Scheduling AI,1,2025-08-25
+3912,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-09-06
+3853,UX Issue,High,Negative,Meal Recommendation AI,0,2025-11-02
+5910,Feature Request,High,Positive,Meal Recommendation AI,1,2025-08-22
+4228,Feature Request,Low,Neutral,Grocery List AI,1,2025-12-21
+4719,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-09-20
+4228,AI Accuracy,Low,Negative,Scheduling AI,0,2026-01-04
+3371,UX Issue,Low,Positive,Grocery List AI,0,2025-10-31
+3891,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-08-25
+4756,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-02
+5225,AI Accuracy,Low,Negative,Grocery List AI,1,2025-09-14
+1094,Feature Request,Low,Neutral,Grocery List AI,1,2026-01-20
+3674,Bug,High,Neutral,Scheduling AI,1,2026-01-18
+2955,UX Issue,Medium,Negative,Meal Recommendation AI,1,2025-09-22
+1793,Bug,High,Positive,Grocery List AI,0,2025-11-22
+2834,AI Accuracy,Low,Positive,Grocery List AI,0,2026-02-04
+3116,UX Issue,High,Negative,Grocery List AI,0,2025-10-03
+5106,AI Accuracy,High,Positive,Meal Recommendation AI,1,2025-12-29
+4325,UX Issue,Low,Negative,Grocery List AI,0,2025-12-22
+3919,Bug,Medium,Negative,Grocery List AI,0,2025-11-16
+3597,UX Issue,Low,Neutral,Scheduling AI,0,2025-09-29
+4205,UX Issue,High,Neutral,Meal Recommendation AI,1,2026-01-04
+5807,UX Issue,Medium,Negative,Scheduling AI,0,2025-09-22
+1814,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-10
+1345,Bug,Low,Negative,Meal Recommendation AI,0,2025-12-27
+3349,UX Issue,High,Negative,Meal Recommendation AI,0,2025-11-23
+1362,UX Issue,High,Positive,Scheduling AI,0,2025-10-17
+3443,UX Issue,High,Negative,Scheduling AI,0,2025-10-25
+3265,UX Issue,High,Neutral,Scheduling AI,1,2025-10-25
+3188,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-11-23
+4005,Feature Request,Low,Positive,Grocery List AI,1,2025-08-25
+4281,AI Accuracy,High,Positive,Grocery List AI,1,2025-10-14
+1984,Feature Request,High,Negative,Grocery List AI,1,2025-10-05
+2639,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2025-12-10
+1827,Feature Request,Low,Neutral,Grocery List AI,0,2025-11-23
+3730,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2025-11-14
+4531,UX Issue,Low,Negative,Scheduling AI,1,2025-08-16
+5451,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2025-11-18
+3935,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2025-09-28
+4876,AI Accuracy,High,Positive,Grocery List AI,0,2025-11-04
+1126,UX Issue,Low,Neutral,Scheduling AI,1,2025-12-17
+4177,AI Accuracy,Medium,Negative,Scheduling AI,1,2026-01-07
+4056,AI Accuracy,Low,Negative,Grocery List AI,0,2025-11-16
+1603,UX Issue,Low,Neutral,Scheduling AI,1,2026-01-26
+4449,AI Accuracy,High,Negative,Scheduling AI,1,2025-09-03
+5146,Feature Request,High,Neutral,Scheduling AI,0,2025-10-11
+4533,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-15
+4367,AI Accuracy,High,Neutral,Scheduling AI,1,2025-12-07
+4368,UX Issue,High,Positive,Meal Recommendation AI,0,2025-08-30
+4797,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-09-09
+2792,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-12-07
+3861,Feature Request,High,Negative,Grocery List AI,0,2025-12-09
+4476,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-08-20
+4417,Feature Request,Low,Negative,Grocery List AI,0,2025-08-15
+2645,AI Accuracy,Low,Negative,Scheduling AI,1,2025-12-22
+2205,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-10-04
+4030,Feature Request,Low,Positive,Meal Recommendation AI,0,2026-01-10
+3872,AI Accuracy,Low,Positive,Grocery List AI,0,2025-10-26
+4072,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-12-16
+2854,UX Issue,High,Positive,Meal Recommendation AI,0,2025-08-25
+5021,AI Accuracy,High,Neutral,Grocery List AI,0,2025-12-15
+5662,Feature Request,Low,Neutral,Scheduling AI,1,2025-12-16
+3708,AI Accuracy,High,Negative,Scheduling AI,1,2025-09-27
+4502,Feature Request,High,Positive,Meal Recommendation AI,1,2026-01-22
+2332,Bug,High,Neutral,Meal Recommendation AI,1,2025-08-12
+1201,UX Issue,Low,Neutral,Meal Recommendation AI,1,2026-02-04
+4507,Bug,High,Neutral,Meal Recommendation AI,1,2025-09-13
+5212,UX Issue,High,Negative,Grocery List AI,1,2025-08-11
+1574,Bug,High,Positive,Meal Recommendation AI,0,2026-01-22
+1536,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-11-16
+2625,Feature Request,Medium,Negative,Scheduling AI,1,2026-02-02
+3122,UX Issue,Medium,Negative,Scheduling AI,1,2025-10-30
+1385,UX Issue,Medium,Negative,Scheduling AI,0,2025-12-27
+4281,UX Issue,Low,Neutral,Grocery List AI,0,2025-11-08
+1474,Feature Request,Low,Positive,Grocery List AI,0,2025-10-03
+1417,AI Accuracy,High,Negative,Scheduling AI,1,2025-08-27
+4600,AI Accuracy,High,Neutral,Scheduling AI,1,2025-11-02
+1954,Feature Request,Low,Negative,Meal Recommendation AI,1,2026-01-27
+5971,Feature Request,High,Neutral,Meal Recommendation AI,1,2025-11-03
+5858,Bug,Low,Negative,Grocery List AI,1,2025-11-13
+2205,Feature Request,High,Negative,Grocery List AI,0,2026-01-15
+5759,Bug,High,Positive,Meal Recommendation AI,0,2026-01-11
+5120,Feature Request,High,Neutral,Scheduling AI,0,2025-10-26
+2990,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-06
+5805,AI Accuracy,Low,Negative,Grocery List AI,0,2025-08-17
+4572,Feature Request,High,Neutral,Grocery List AI,1,2026-01-11
+5380,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-09-21
+5158,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2025-10-25
+5757,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-09-04
+3713,Bug,High,Negative,Grocery List AI,1,2025-12-10
+3203,UX Issue,Low,Negative,Scheduling AI,0,2025-12-30
+4120,UX Issue,High,Negative,Meal Recommendation AI,0,2026-01-20
+1966,UX Issue,Low,Negative,Grocery List AI,1,2025-12-30
+5944,AI Accuracy,Low,Positive,Grocery List AI,0,2025-11-21
+4432,UX Issue,High,Negative,Grocery List AI,0,2025-09-06
+1688,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2026-01-10
+5243,AI Accuracy,High,Positive,Meal Recommendation AI,1,2026-01-16
+4701,Feature Request,Low,Positive,Scheduling AI,0,2025-09-21
+1341,UX Issue,Low,Neutral,Grocery List AI,1,2025-10-25
+2724,Feature Request,High,Neutral,Meal Recommendation AI,1,2026-01-07
+5422,Bug,Medium,Neutral,Grocery List AI,0,2026-01-05
+2792,AI Accuracy,Low,Positive,Grocery List AI,1,2026-01-17
+2759,Feature Request,High,Neutral,Scheduling AI,0,2025-09-10
+4212,UX Issue,Medium,Negative,Meal Recommendation AI,0,2026-01-09
+1989,Bug,Medium,Neutral,Meal Recommendation AI,1,2025-11-03
+3262,AI Accuracy,Medium,Neutral,Grocery List AI,1,2025-11-12
+3482,Feature Request,High,Negative,Grocery List AI,0,2025-12-23
+1951,UX Issue,High,Negative,Scheduling AI,1,2025-08-26
+1722,AI Accuracy,High,Negative,Scheduling AI,1,2025-10-15
+4389,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-09-08
+3079,Feature Request,High,Negative,Scheduling AI,0,2025-11-23
+3717,Feature Request,High,Positive,Scheduling AI,1,2025-11-10
+3332,AI Accuracy,High,Positive,Scheduling AI,0,2025-09-15
+4376,UX Issue,Low,Neutral,Grocery List AI,0,2025-11-03
+5524,UX Issue,High,Negative,Scheduling AI,1,2025-10-30
+2500,Feature Request,High,Positive,Grocery List AI,1,2025-09-17
+1285,AI Accuracy,Low,Positive,Grocery List AI,1,2025-09-26
+4495,Bug,Medium,Positive,Meal Recommendation AI,0,2025-12-11
+3065,AI Accuracy,High,Negative,Grocery List AI,0,2025-09-07
+1768,UX Issue,Low,Negative,Grocery List AI,1,2025-10-31
+4057,AI Accuracy,High,Neutral,Scheduling AI,0,2025-10-30
+5289,AI Accuracy,High,Negative,Grocery List AI,1,2026-01-02
+3161,UX Issue,Medium,Neutral,Scheduling AI,0,2025-10-28
+4293,AI Accuracy,Low,Negative,Scheduling AI,1,2025-09-13
+1946,Feature Request,Low,Positive,Scheduling AI,1,2025-09-02
+5926,AI Accuracy,High,Negative,Meal Recommendation AI,1,2026-01-22
+4335,UX Issue,Low,Neutral,Scheduling AI,1,2025-08-27
+5150,AI Accuracy,High,Negative,Grocery List AI,1,2025-10-16
+5895,AI Accuracy,Low,Positive,Scheduling AI,0,2025-11-22
+5873,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-10-31
+2481,UX Issue,Low,Neutral,Scheduling AI,1,2025-10-07
+2901,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-12-12
+4451,UX Issue,High,Positive,Grocery List AI,1,2025-10-11
+5064,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-11-04
+1054,UX Issue,Low,Positive,Grocery List AI,0,2025-12-30
+2823,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2026-01-10
+4462,UX Issue,Medium,Negative,Grocery List AI,1,2025-11-30
+4079,Bug,Medium,Negative,Meal Recommendation AI,1,2025-11-13
+1832,UX Issue,High,Negative,Scheduling AI,1,2026-01-18
+5408,Feature Request,Medium,Negative,Meal Recommendation AI,1,2026-01-09
+3806,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2026-01-05
+3490,Feature Request,Low,Negative,Scheduling AI,0,2025-10-22
+1327,Feature Request,High,Neutral,Scheduling AI,1,2025-09-29
+4310,UX Issue,Low,Negative,Grocery List AI,1,2026-01-30
+4300,Bug,Low,Negative,Grocery List AI,0,2026-01-25
+4675,AI Accuracy,High,Neutral,Grocery List AI,1,2025-08-27
+4054,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2026-01-18
+3143,Feature Request,Medium,Neutral,Grocery List AI,0,2026-01-15
+2311,Feature Request,Medium,Negative,Meal Recommendation AI,1,2026-01-17
+4191,AI Accuracy,High,Negative,Meal Recommendation AI,0,2026-02-01
+3538,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-11-20
+4983,AI Accuracy,High,Negative,Grocery List AI,0,2025-10-12
+5547,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-09-01
+1164,Feature Request,Medium,Positive,Scheduling AI,1,2026-01-11
+5277,UX Issue,Medium,Positive,Scheduling AI,1,2025-11-20
+1822,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-09-03
+1943,UX Issue,High,Negative,Grocery List AI,1,2025-12-18
+5425,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-12-02
+1774,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-08-23
+3198,UX Issue,Medium,Positive,Grocery List AI,0,2025-11-14
+4156,Bug,High,Neutral,Scheduling AI,0,2026-02-04
+5242,Feature Request,Medium,Positive,Meal Recommendation AI,0,2025-08-21
+4695,AI Accuracy,High,Neutral,Scheduling AI,1,2025-11-16
+4452,Bug,Low,Negative,Scheduling AI,1,2026-01-15
+1914,Feature Request,Low,Positive,Grocery List AI,0,2025-11-11
+2308,Feature Request,Low,Negative,Meal Recommendation AI,1,2026-01-21
+5177,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-12-17
+1513,UX Issue,Low,Negative,Scheduling AI,1,2025-12-19
+2920,AI Accuracy,Low,Positive,Scheduling AI,1,2025-08-29
+4594,AI Accuracy,High,Neutral,Grocery List AI,0,2025-12-18
+5841,AI Accuracy,High,Positive,Scheduling AI,0,2025-10-20
+2409,AI Accuracy,High,Negative,Grocery List AI,1,2025-12-22
+5802,UX Issue,Low,Negative,Meal Recommendation AI,1,2026-01-04
+5566,Feature Request,Low,Neutral,Grocery List AI,1,2025-09-26
+4190,UX Issue,Low,Positive,Scheduling AI,1,2025-10-31
+5491,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-11-17
+2555,Bug,High,Neutral,Grocery List AI,0,2025-09-12
+1804,Bug,Medium,Positive,Meal Recommendation AI,0,2025-12-13
+2279,Feature Request,Low,Negative,Grocery List AI,0,2025-10-01
+4577,Bug,Medium,Negative,Scheduling AI,0,2025-08-14
+3901,UX Issue,Low,Positive,Scheduling AI,0,2025-09-24
+2387,Bug,Low,Positive,Meal Recommendation AI,1,2025-12-01
+5688,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2025-09-21
+3761,UX Issue,High,Positive,Meal Recommendation AI,0,2025-10-19
+3679,AI Accuracy,Low,Positive,Grocery List AI,1,2026-01-13
+3106,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-21
+5223,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-08-18
+5831,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-12-16
+3768,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-11-25
+4953,UX Issue,Low,Negative,Grocery List AI,0,2025-10-25
+4186,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-09-05
+4280,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-11-17
+3573,UX Issue,High,Neutral,Grocery List AI,0,2025-08-26
+5616,UX Issue,Low,Neutral,Grocery List AI,0,2025-09-13
+3599,Feature Request,Medium,Negative,Meal Recommendation AI,1,2026-01-18
+5033,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2025-09-03
+1236,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-09-15
+2304,Bug,High,Positive,Scheduling AI,0,2025-11-16
+4430,AI Accuracy,High,Neutral,Grocery List AI,1,2025-10-21
+2301,UX Issue,Low,Negative,Scheduling AI,1,2025-11-28
+3541,Bug,High,Negative,Meal Recommendation AI,0,2025-11-17
+3051,Feature Request,Medium,Negative,Meal Recommendation AI,0,2025-09-15
+1441,AI Accuracy,High,Neutral,Scheduling AI,0,2025-12-25
+3076,AI Accuracy,Medium,Neutral,Grocery List AI,0,2026-01-02
+4180,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-12-19
+3657,UX Issue,High,Positive,Scheduling AI,1,2025-09-22
+4798,UX Issue,Low,Neutral,Grocery List AI,0,2025-09-20
+1804,AI Accuracy,Medium,Negative,Scheduling AI,0,2026-01-31
+1074,Bug,High,Negative,Grocery List AI,0,2025-10-12
+3175,UX Issue,High,Negative,Grocery List AI,0,2025-08-13
+4924,AI Accuracy,Low,Positive,Grocery List AI,0,2025-10-11
+3089,UX Issue,High,Negative,Grocery List AI,0,2025-09-04
+1040,Feature Request,Low,Neutral,Scheduling AI,1,2025-10-20
+3081,AI Accuracy,Low,Positive,Scheduling AI,1,2026-01-13
+5683,AI Accuracy,Medium,Negative,Scheduling AI,0,2025-12-05
+2622,Feature Request,Low,Negative,Scheduling AI,1,2026-01-23
+1341,UX Issue,High,Positive,Scheduling AI,0,2025-09-21
+5052,UX Issue,Low,Neutral,Grocery List AI,0,2026-01-16
+3074,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-11-05
+1645,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-10-20
+5826,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-09-06
+5263,UX Issue,Low,Negative,Scheduling AI,1,2025-10-20
+1609,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2026-01-03
+1454,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-09-10
+3953,Feature Request,Low,Neutral,Scheduling AI,0,2025-08-13
+2708,Bug,Medium,Neutral,Grocery List AI,1,2025-12-03
+4472,Feature Request,Low,Neutral,Meal Recommendation AI,1,2026-01-06
+3969,Bug,Medium,Negative,Meal Recommendation AI,1,2025-10-20
+4028,AI Accuracy,Low,Negative,Scheduling AI,0,2025-11-24
+5797,Bug,High,Negative,Grocery List AI,1,2025-10-19
+3681,AI Accuracy,High,Negative,Scheduling AI,0,2025-09-13
+4629,Bug,Medium,Negative,Meal Recommendation AI,1,2025-10-28
+5225,Bug,Low,Negative,Grocery List AI,0,2026-01-22
+4067,Feature Request,Low,Negative,Scheduling AI,1,2026-01-17
+2386,Bug,High,Neutral,Scheduling AI,0,2025-11-26
+4776,UX Issue,Low,Neutral,Scheduling AI,0,2025-12-08
+3866,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-10-31
+5788,UX Issue,Low,Neutral,Scheduling AI,0,2025-12-23
+4363,UX Issue,Low,Neutral,Grocery List AI,0,2025-08-29
+5889,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-17
+5124,UX Issue,High,Neutral,Meal Recommendation AI,1,2026-01-25
+1148,Bug,Low,Positive,Scheduling AI,1,2025-10-22
+4850,AI Accuracy,Medium,Neutral,Meal Recommendation AI,1,2026-02-03
+3058,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-10-03
+2136,Bug,Low,Positive,Grocery List AI,0,2025-09-13
+1186,Bug,High,Positive,Grocery List AI,0,2025-11-03
+3854,Bug,Low,Neutral,Scheduling AI,1,2025-08-21
+2250,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-08-15
+2333,Bug,Medium,Negative,Meal Recommendation AI,0,2025-11-04
+5193,Feature Request,Low,Negative,Grocery List AI,0,2026-02-01
+5150,AI Accuracy,High,Neutral,Grocery List AI,1,2025-08-23
+3711,UX Issue,Low,Neutral,Scheduling AI,1,2025-12-04
+5853,Feature Request,High,Neutral,Meal Recommendation AI,1,2026-01-07
+5501,AI Accuracy,Low,Negative,Grocery List AI,1,2026-01-17
+2785,UX Issue,High,Positive,Scheduling AI,0,2025-11-06
+1750,Feature Request,Low,Positive,Meal Recommendation AI,0,2026-01-07
+2762,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-08-26
+4920,UX Issue,High,Neutral,Grocery List AI,0,2025-10-12
+5460,Feature Request,High,Positive,Scheduling AI,0,2025-11-27
+1481,UX Issue,High,Positive,Grocery List AI,0,2025-10-05
+1153,AI Accuracy,High,Negative,Scheduling AI,0,2026-01-13
+2524,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-12-21
+3120,UX Issue,Low,Negative,Scheduling AI,0,2025-08-17
+3343,Bug,Low,Neutral,Scheduling AI,0,2025-08-13
+2240,AI Accuracy,Low,Neutral,Scheduling AI,0,2026-01-28
+1060,UX Issue,Low,Negative,Scheduling AI,1,2025-12-01
+1938,AI Accuracy,Low,Negative,Scheduling AI,1,2025-08-21
+2639,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-08-30
+5120,Feature Request,Low,Negative,Scheduling AI,0,2025-08-13
+5226,Feature Request,High,Positive,Scheduling AI,0,2025-10-28
+4569,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-12-06
+2252,UX Issue,Low,Negative,Scheduling AI,0,2025-10-16
+5203,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-12-15
+1171,UX Issue,High,Negative,Grocery List AI,1,2025-08-23
+2458,Feature Request,High,Positive,Grocery List AI,0,2025-12-31
+4549,AI Accuracy,Medium,Neutral,Scheduling AI,0,2025-10-16
+5197,AI Accuracy,Low,Negative,Grocery List AI,0,2025-11-10
+3322,UX Issue,Medium,Negative,Scheduling AI,0,2025-11-12
+2636,Bug,Low,Positive,Grocery List AI,0,2026-01-23
+4115,Bug,Low,Neutral,Scheduling AI,1,2025-08-24
+5090,AI Accuracy,Medium,Negative,Scheduling AI,0,2025-12-20
+4004,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-11-07
+1329,UX Issue,Low,Negative,Meal Recommendation AI,0,2026-01-14
+4640,UX Issue,High,Negative,Meal Recommendation AI,0,2025-08-22
+4894,Feature Request,High,Positive,Meal Recommendation AI,0,2025-12-09
+5107,Bug,Low,Positive,Scheduling AI,0,2026-01-06
+2341,Bug,Low,Positive,Grocery List AI,0,2025-09-12
+4663,UX Issue,Low,Negative,Scheduling AI,0,2025-10-22
+1215,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-09-12
+1338,Feature Request,High,Neutral,Meal Recommendation AI,0,2025-11-23
+5062,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-08-22
+3708,UX Issue,High,Negative,Meal Recommendation AI,0,2025-11-03
+4152,UX Issue,Low,Positive,Scheduling AI,0,2025-09-04
+2750,Feature Request,High,Positive,Scheduling AI,0,2025-11-26
+3421,AI Accuracy,Low,Negative,Scheduling AI,0,2026-01-29
+1709,AI Accuracy,High,Negative,Scheduling AI,0,2025-12-02
+4726,Bug,Low,Negative,Scheduling AI,0,2025-12-21
+4642,AI Accuracy,Medium,Positive,Grocery List AI,1,2026-01-18
+4993,UX Issue,Low,Neutral,Scheduling AI,0,2025-09-17
+1488,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-09-05
+1046,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2026-01-28
+4359,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-11-23
+5873,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-08-29
+5806,Bug,Medium,Positive,Grocery List AI,0,2025-09-13
+1400,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-26
+4990,Bug,Low,Negative,Grocery List AI,1,2025-11-18
+4157,UX Issue,Low,Positive,Meal Recommendation AI,0,2025-11-18
+5345,UX Issue,Low,Neutral,Grocery List AI,1,2025-10-07
+1390,UX Issue,Medium,Neutral,Grocery List AI,0,2025-08-13
+4853,UX Issue,Low,Neutral,Grocery List AI,1,2025-12-04
+5430,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-12-27
+1628,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-11-13
+5232,UX Issue,High,Negative,Scheduling AI,1,2026-01-21
+3930,Bug,Low,Neutral,Scheduling AI,0,2025-10-29
+2521,Bug,Low,Positive,Meal Recommendation AI,0,2025-09-24
+1826,Bug,Low,Negative,Scheduling AI,1,2025-10-07
+5822,UX Issue,Low,Neutral,Scheduling AI,1,2025-12-04
+2500,Feature Request,Low,Negative,Scheduling AI,1,2025-09-22
+4294,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2025-09-30
+3419,UX Issue,Medium,Positive,Meal Recommendation AI,1,2025-10-16
+1934,AI Accuracy,High,Positive,Scheduling AI,1,2025-10-17
+4042,UX Issue,Low,Negative,Meal Recommendation AI,0,2026-01-04
+5497,AI Accuracy,High,Neutral,Grocery List AI,0,2025-12-22
+2466,AI Accuracy,Low,Negative,Scheduling AI,1,2025-10-06
+4561,Bug,Medium,Positive,Meal Recommendation AI,0,2025-11-15
+1614,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2026-01-23
+2182,AI Accuracy,Low,Neutral,Scheduling AI,0,2026-01-12
+4223,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-08-21
+3667,Bug,High,Negative,Scheduling AI,1,2026-01-22
+1130,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-11-27
+3983,UX Issue,High,Neutral,Grocery List AI,0,2025-12-05
+5278,Feature Request,Low,Positive,Scheduling AI,1,2025-10-08
+5459,Feature Request,High,Neutral,Grocery List AI,1,2025-11-08
+1038,AI Accuracy,Low,Neutral,Scheduling AI,0,2026-02-04
+4959,Feature Request,Low,Negative,Meal Recommendation AI,0,2025-10-02
+4587,Feature Request,Medium,Negative,Grocery List AI,0,2026-01-04
+1920,Feature Request,Low,Neutral,Meal Recommendation AI,1,2025-09-17
+3769,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-08-28
+5111,Bug,Low,Negative,Scheduling AI,0,2026-01-04
+1492,UX Issue,Low,Negative,Scheduling AI,1,2025-12-11
+2131,AI Accuracy,Low,Positive,Scheduling AI,0,2025-09-06
+4521,UX Issue,Low,Neutral,Scheduling AI,0,2025-11-06
+1310,AI Accuracy,High,Neutral,Grocery List AI,0,2026-02-01
+1738,AI Accuracy,Low,Positive,Scheduling AI,0,2026-01-13
+4241,Feature Request,Medium,Positive,Meal Recommendation AI,0,2026-01-07
+1545,AI Accuracy,Low,Positive,Grocery List AI,0,2025-10-30
+3461,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-09-09
+5346,UX Issue,High,Neutral,Scheduling AI,0,2026-01-06
+5854,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-11-07
+2804,Bug,High,Positive,Grocery List AI,0,2025-09-10
+4212,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-14
+4810,AI Accuracy,High,Negative,Grocery List AI,1,2025-11-30
+1813,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-08-12
+5124,AI Accuracy,High,Neutral,Grocery List AI,1,2025-10-27
+3032,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2025-12-09
+5572,Feature Request,Medium,Positive,Scheduling AI,0,2025-08-17
+5413,Bug,Low,Positive,Scheduling AI,1,2026-01-11
+1244,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2026-01-13
+5843,Feature Request,High,Positive,Grocery List AI,1,2025-09-29
+5792,Feature Request,Low,Neutral,Meal Recommendation AI,1,2025-10-31
+1271,Feature Request,Low,Negative,Meal Recommendation AI,0,2025-09-15
+4511,UX Issue,High,Negative,Meal Recommendation AI,1,2025-09-30
+2771,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-11-16
+2262,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-08-20
+3424,Feature Request,High,Positive,Scheduling AI,0,2025-08-17
+5361,Feature Request,Medium,Positive,Meal Recommendation AI,0,2026-02-01
+1920,AI Accuracy,High,Negative,Scheduling AI,0,2025-09-23
+4430,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-12-21
+5435,Bug,Low,Positive,Meal Recommendation AI,1,2026-01-27
+5484,Feature Request,Medium,Neutral,Grocery List AI,0,2025-08-28
+3624,Bug,Low,Negative,Grocery List AI,1,2026-01-03
+4760,Feature Request,High,Negative,Meal Recommendation AI,1,2025-11-13
+3050,UX Issue,High,Negative,Meal Recommendation AI,0,2025-09-26
+4500,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-12-02
+2165,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-10-22
+1375,AI Accuracy,High,Neutral,Grocery List AI,1,2026-01-02
+3033,UX Issue,Medium,Positive,Scheduling AI,1,2025-11-12
+1145,Feature Request,Medium,Negative,Meal Recommendation AI,1,2025-11-09
+5388,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-09-05
+1431,Feature Request,High,Neutral,Meal Recommendation AI,0,2025-12-12
+1704,UX Issue,Medium,Negative,Meal Recommendation AI,1,2025-09-21
+3632,Bug,High,Neutral,Scheduling AI,0,2026-01-19
+5494,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-09-09
+1963,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-09-17
+3234,UX Issue,Medium,Negative,Scheduling AI,1,2025-09-27
+3041,AI Accuracy,High,Negative,Scheduling AI,1,2026-02-01
+2828,Feature Request,Low,Positive,Scheduling AI,0,2026-01-29
+3108,Feature Request,High,Negative,Scheduling AI,1,2026-01-10
+5068,AI Accuracy,High,Negative,Grocery List AI,1,2026-01-12
+1938,UX Issue,Medium,Positive,Grocery List AI,1,2026-01-26
+5805,UX Issue,High,Positive,Grocery List AI,1,2026-01-23
+1806,UX Issue,High,Negative,Meal Recommendation AI,0,2025-10-03
+2463,Bug,High,Positive,Scheduling AI,1,2025-08-17
+4415,Feature Request,Low,Negative,Scheduling AI,1,2025-12-28
+1010,Feature Request,Low,Neutral,Grocery List AI,0,2025-09-11
+2868,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2025-08-10
+5867,UX Issue,High,Positive,Meal Recommendation AI,1,2026-01-17
+1884,Bug,Medium,Negative,Meal Recommendation AI,1,2025-11-21
+4564,Feature Request,High,Neutral,Grocery List AI,0,2025-12-15
+2389,Feature Request,Low,Neutral,Meal Recommendation AI,1,2025-08-14
+4401,Bug,Medium,Negative,Meal Recommendation AI,1,2025-10-08
+5321,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-08-31
+1824,Feature Request,High,Negative,Scheduling AI,0,2025-12-21
+3265,AI Accuracy,Medium,Neutral,Grocery List AI,0,2025-09-09
+1936,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-11-22
+3800,AI Accuracy,Low,Negative,Scheduling AI,1,2025-10-04
+3553,Bug,High,Negative,Grocery List AI,0,2025-12-19
+4845,Bug,Medium,Neutral,Scheduling AI,0,2025-12-05
+2796,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-12-09
+1053,Feature Request,High,Negative,Meal Recommendation AI,1,2026-01-18
+1726,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-10-20
+3736,Bug,High,Negative,Meal Recommendation AI,0,2025-12-19
+4170,UX Issue,Medium,Neutral,Grocery List AI,0,2025-12-04
+2913,UX Issue,Medium,Positive,Scheduling AI,1,2026-01-24
+2596,AI Accuracy,High,Negative,Scheduling AI,0,2026-01-02
+2914,Feature Request,Medium,Positive,Meal Recommendation AI,0,2025-10-26
+3466,Feature Request,High,Neutral,Meal Recommendation AI,1,2025-11-10
+3737,UX Issue,Low,Neutral,Scheduling AI,0,2026-01-11
+1849,AI Accuracy,Medium,Neutral,Grocery List AI,0,2025-09-26
+3109,Feature Request,Low,Negative,Scheduling AI,1,2025-09-17
+1002,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-08-19
+5255,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-12-18
+5069,Bug,Low,Positive,Grocery List AI,0,2025-11-19
+5876,UX Issue,High,Positive,Scheduling AI,1,2025-08-14
+1892,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-09-22
+3030,Feature Request,High,Negative,Grocery List AI,1,2025-12-12
+4160,Feature Request,High,Negative,Meal Recommendation AI,0,2026-01-18
+3376,UX Issue,Medium,Negative,Scheduling AI,0,2026-01-01
+5675,Bug,Low,Neutral,Meal Recommendation AI,1,2025-08-29
+2933,AI Accuracy,High,Neutral,Scheduling AI,1,2025-09-06
+2380,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2026-01-29
+4681,Feature Request,High,Positive,Meal Recommendation AI,1,2026-01-23
+2290,Bug,High,Positive,Scheduling AI,0,2025-10-02
+2640,AI Accuracy,High,Negative,Scheduling AI,1,2025-10-16
+3682,Feature Request,Medium,Positive,Meal Recommendation AI,0,2025-11-28
+1987,UX Issue,Low,Positive,Scheduling AI,1,2025-10-28
+2218,UX Issue,Medium,Positive,Meal Recommendation AI,0,2025-11-07
+2355,AI Accuracy,Low,Negative,Scheduling AI,0,2025-12-25
+5265,Bug,High,Negative,Meal Recommendation AI,0,2025-10-19
+5616,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-08-30
+5135,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-10-18
+2560,AI Accuracy,High,Neutral,Grocery List AI,1,2026-01-10
+2418,Bug,Medium,Negative,Scheduling AI,1,2025-11-21
+1954,Feature Request,Low,Positive,Meal Recommendation AI,0,2026-01-04
+1983,Feature Request,Medium,Positive,Grocery List AI,0,2025-11-06
+1974,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-03
+5133,UX Issue,Low,Negative,Grocery List AI,1,2025-10-02
+4972,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-12-15
+1913,Feature Request,Low,Neutral,Meal Recommendation AI,1,2025-09-10
+5549,Bug,High,Neutral,Grocery List AI,1,2025-10-25
+1036,AI Accuracy,High,Positive,Grocery List AI,1,2025-10-23
+4387,Feature Request,Low,Positive,Scheduling AI,0,2025-08-21
+2711,AI Accuracy,Medium,Positive,Scheduling AI,0,2026-01-22
+4020,UX Issue,Low,Neutral,Grocery List AI,0,2025-08-17
+1795,AI Accuracy,High,Negative,Scheduling AI,0,2025-10-24
+5036,AI Accuracy,Medium,Neutral,Grocery List AI,0,2025-10-11
+5688,UX Issue,Medium,Positive,Scheduling AI,0,2025-12-19
+4111,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-11-04
+2324,AI Accuracy,Low,Negative,Scheduling AI,0,2025-08-18
+1317,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-09-14
+3396,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-10-18
+3162,AI Accuracy,Medium,Neutral,Scheduling AI,1,2025-08-26
+3745,Feature Request,High,Negative,Grocery List AI,1,2025-12-14
+2591,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-08-27
+4111,UX Issue,Medium,Negative,Meal Recommendation AI,1,2026-02-02
+4930,Feature Request,High,Negative,Scheduling AI,1,2025-11-29
+2996,AI Accuracy,High,Negative,Grocery List AI,0,2025-09-25
+2312,AI Accuracy,High,Negative,Grocery List AI,1,2025-09-20
+2285,UX Issue,Medium,Neutral,Scheduling AI,0,2025-12-15
+5311,Bug,Low,Positive,Grocery List AI,0,2025-09-01
+3383,UX Issue,Low,Negative,Scheduling AI,0,2025-11-01
+4239,Feature Request,High,Neutral,Scheduling AI,0,2026-01-05
+3139,UX Issue,Low,Positive,Scheduling AI,0,2025-12-01
+2704,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-11-06
+1362,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-11-28
+3604,Feature Request,Medium,Negative,Meal Recommendation AI,1,2025-08-24
+2716,AI Accuracy,Medium,Negative,Scheduling AI,1,2025-09-03
+5451,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-11-10
+5286,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2026-01-03
+4738,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2025-11-29
+3469,Bug,High,Neutral,Scheduling AI,1,2025-11-09
+5795,AI Accuracy,High,Neutral,Scheduling AI,0,2025-08-17
+1556,UX Issue,High,Negative,Scheduling AI,0,2025-11-02
+1825,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-20
+3808,Bug,Medium,Neutral,Grocery List AI,0,2025-08-12
+5521,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-12-14
+3719,UX Issue,High,Positive,Meal Recommendation AI,1,2025-11-23
+4508,Feature Request,Medium,Negative,Scheduling AI,0,2025-12-18
+4741,Feature Request,Medium,Neutral,Scheduling AI,0,2025-10-15
+2574,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-10-14
+4998,AI Accuracy,Medium,Positive,Meal Recommendation AI,1,2025-11-02
+3129,UX Issue,Low,Positive,Grocery List AI,0,2026-01-11
+3403,AI Accuracy,Medium,Neutral,Grocery List AI,0,2025-09-26
+4329,AI Accuracy,Low,Negative,Scheduling AI,1,2025-08-10
+1588,UX Issue,High,Neutral,Grocery List AI,0,2025-09-19
+3012,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-13
+2547,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-10-20
+1294,Feature Request,Medium,Neutral,Grocery List AI,0,2025-11-28
+2985,Bug,High,Positive,Meal Recommendation AI,1,2025-11-13
+4117,UX Issue,Medium,Negative,Grocery List AI,1,2025-09-01
+2690,AI Accuracy,Low,Positive,Scheduling AI,0,2025-11-12
+2136,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-10-09
+3064,Bug,Low,Negative,Grocery List AI,0,2025-11-25
+5455,AI Accuracy,High,Negative,Meal Recommendation AI,1,2026-01-16
+5795,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2026-01-09
+5543,UX Issue,Medium,Negative,Grocery List AI,1,2026-01-28
+5770,UX Issue,Low,Negative,Grocery List AI,1,2025-11-12
+2007,UX Issue,High,Positive,Scheduling AI,0,2025-12-06
+3514,AI Accuracy,Low,Negative,Scheduling AI,1,2025-09-02
+4526,AI Accuracy,Medium,Positive,Meal Recommendation AI,0,2026-02-02
+5681,Bug,Low,Neutral,Scheduling AI,1,2026-01-29
+2247,AI Accuracy,High,Positive,Meal Recommendation AI,1,2026-02-01
+4902,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-09-25
+2435,Feature Request,Medium,Neutral,Scheduling AI,0,2025-09-19
+1571,UX Issue,High,Neutral,Scheduling AI,1,2025-10-03
+3382,AI Accuracy,Medium,Negative,Scheduling AI,1,2026-01-21
+2245,AI Accuracy,Low,Positive,Grocery List AI,1,2026-01-23
+3084,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-10-10
+1277,Bug,Medium,Positive,Meal Recommendation AI,0,2026-01-29
+2887,Bug,Medium,Negative,Meal Recommendation AI,0,2025-10-24
+5579,AI Accuracy,Low,Negative,Scheduling AI,1,2026-01-30
+2265,AI Accuracy,Medium,Negative,Scheduling AI,0,2025-12-03
+5826,Bug,Medium,Negative,Scheduling AI,0,2025-08-11
+2040,Feature Request,Low,Neutral,Scheduling AI,1,2026-01-06
+1917,Bug,Low,Negative,Scheduling AI,0,2026-01-14
+1885,AI Accuracy,High,Neutral,Grocery List AI,0,2025-09-05
+3752,UX Issue,Low,Neutral,Scheduling AI,0,2025-09-02
+1021,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-10-10
+5569,Feature Request,Medium,Positive,Scheduling AI,0,2025-11-13
+4191,UX Issue,High,Negative,Meal Recommendation AI,0,2025-08-22
+3353,AI Accuracy,Low,Negative,Scheduling AI,0,2025-09-25
+5799,UX Issue,Medium,Neutral,Scheduling AI,1,2025-09-15
+1686,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-11-07
+1284,UX Issue,Low,Positive,Meal Recommendation AI,0,2025-08-21
+5811,Bug,Low,Negative,Meal Recommendation AI,0,2025-10-07
+4747,UX Issue,High,Negative,Meal Recommendation AI,1,2025-10-22
+1762,Feature Request,Low,Positive,Grocery List AI,1,2025-11-28
+3428,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-11-02
+3507,Feature Request,Medium,Negative,Scheduling AI,1,2025-11-20
+1028,Bug,High,Negative,Scheduling AI,1,2025-08-18
+1906,AI Accuracy,Low,Positive,Grocery List AI,1,2026-02-04
+4104,AI Accuracy,Medium,Positive,Meal Recommendation AI,0,2025-09-08
+4999,UX Issue,Low,Negative,Scheduling AI,0,2025-12-05
+3994,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-09-04
+3506,Feature Request,Medium,Positive,Scheduling AI,1,2026-01-18
+5665,Bug,Medium,Negative,Grocery List AI,1,2025-12-19
+4609,UX Issue,Low,Negative,Grocery List AI,1,2025-09-21
+4553,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2026-02-04
+2453,UX Issue,Low,Positive,Grocery List AI,0,2025-09-21
+5833,Feature Request,Low,Positive,Scheduling AI,0,2025-09-07
+4356,AI Accuracy,Low,Positive,Scheduling AI,0,2025-10-21
+1515,UX Issue,High,Negative,Meal Recommendation AI,1,2025-08-16
+1038,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-09-28
+4342,UX Issue,High,Negative,Grocery List AI,0,2025-09-16
+1886,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-12-29
+3844,Feature Request,Medium,Neutral,Scheduling AI,1,2025-12-27
+3204,AI Accuracy,High,Positive,Scheduling AI,0,2025-11-15
+2098,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2026-01-20
+2823,Bug,Medium,Negative,Meal Recommendation AI,0,2025-10-01
+4201,Feature Request,Medium,Negative,Meal Recommendation AI,0,2025-10-11
+4155,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-11-04
+4093,AI Accuracy,High,Negative,Grocery List AI,0,2025-09-24
+4530,AI Accuracy,Low,Negative,Scheduling AI,1,2026-02-02
+4778,AI Accuracy,Low,Negative,Grocery List AI,0,2026-01-22
+3896,AI Accuracy,High,Positive,Grocery List AI,0,2025-12-01
+4453,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-11-02
+4511,UX Issue,Medium,Negative,Grocery List AI,0,2025-11-11
+1988,Feature Request,High,Neutral,Scheduling AI,0,2025-10-14
+5116,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2025-08-30
+5964,Feature Request,Medium,Positive,Scheduling AI,1,2025-08-28
+5026,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-09-29
+5179,Bug,Low,Neutral,Meal Recommendation AI,0,2025-08-17
+2682,Feature Request,High,Negative,Meal Recommendation AI,0,2026-01-21
+5665,Feature Request,Medium,Neutral,Meal Recommendation AI,0,2025-12-30
+4963,Feature Request,Medium,Neutral,Scheduling AI,0,2025-09-03
+1933,Bug,Low,Negative,Meal Recommendation AI,1,2025-08-13
+4598,UX Issue,Low,Positive,Scheduling AI,1,2026-01-09
+4233,AI Accuracy,High,Neutral,Scheduling AI,1,2026-01-24
+2980,UX Issue,Low,Negative,Grocery List AI,0,2025-11-30
+2855,Feature Request,Medium,Negative,Grocery List AI,0,2026-01-06
+4056,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-11-01
+1792,UX Issue,High,Negative,Meal Recommendation AI,0,2025-09-23
+1791,AI Accuracy,High,Positive,Grocery List AI,0,2026-01-02
+2809,UX Issue,Medium,Negative,Scheduling AI,1,2026-01-04
+3255,Bug,Low,Positive,Scheduling AI,1,2025-10-11
+4610,UX Issue,Medium,Negative,Grocery List AI,1,2025-12-28
+2607,UX Issue,High,Neutral,Scheduling AI,0,2025-11-01
+1984,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-08-18
+4676,UX Issue,High,Negative,Grocery List AI,0,2025-08-18
+4380,Bug,Medium,Negative,Meal Recommendation AI,1,2025-09-27
+1519,Feature Request,High,Positive,Meal Recommendation AI,0,2025-08-15
+1590,Feature Request,Medium,Neutral,Grocery List AI,1,2025-08-29
+2050,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-12-24
+4633,UX Issue,Low,Negative,Grocery List AI,0,2025-11-16
+5444,AI Accuracy,Low,Positive,Scheduling AI,0,2026-02-02
+1959,Feature Request,High,Negative,Scheduling AI,0,2025-11-23
+1692,UX Issue,High,Negative,Scheduling AI,1,2025-10-11
+4899,UX Issue,High,Neutral,Scheduling AI,1,2025-12-04
+5473,UX Issue,Low,Negative,Grocery List AI,1,2025-10-17
+3946,Bug,Low,Neutral,Scheduling AI,0,2025-12-27
+1526,AI Accuracy,High,Neutral,Scheduling AI,0,2026-01-18
+4224,Feature Request,Medium,Neutral,Scheduling AI,1,2025-11-30
+3253,AI Accuracy,Low,Negative,Scheduling AI,0,2025-10-25
+4344,UX Issue,Medium,Negative,Grocery List AI,1,2025-09-20
+4965,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-12-21
+2875,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-12-12
+2763,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-08-15
+1520,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-11-22
+2016,UX Issue,High,Positive,Meal Recommendation AI,0,2025-10-31
+1116,Bug,Low,Negative,Meal Recommendation AI,1,2026-01-10
+3433,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-09-03
+1583,Feature Request,Low,Neutral,Grocery List AI,1,2025-08-23
+1394,UX Issue,High,Positive,Meal Recommendation AI,1,2026-01-14
+4788,Feature Request,Medium,Neutral,Scheduling AI,0,2026-01-10
+3768,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-08-26
+5167,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-11-24
+4860,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-10-13
+1273,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-12-16
+3013,AI Accuracy,High,Neutral,Scheduling AI,1,2025-10-15
+5433,Feature Request,High,Negative,Grocery List AI,0,2025-09-12
+2389,Bug,Low,Negative,Grocery List AI,0,2025-08-18
+4566,Feature Request,Medium,Positive,Grocery List AI,1,2026-01-24
+5702,Feature Request,High,Neutral,Grocery List AI,1,2026-02-02
+1165,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-10-08
+2567,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-09-23
+1728,AI Accuracy,Low,Negative,Scheduling AI,1,2025-09-24
+3043,AI Accuracy,High,Negative,Grocery List AI,1,2025-11-15
+5197,UX Issue,High,Positive,Grocery List AI,0,2025-12-22
+4496,UX Issue,High,Negative,Meal Recommendation AI,0,2025-10-01
+1778,UX Issue,High,Negative,Grocery List AI,1,2025-11-11
+1213,UX Issue,Low,Neutral,Scheduling AI,1,2025-10-13
+4762,Feature Request,High,Neutral,Scheduling AI,0,2025-08-22
+2576,Feature Request,Low,Negative,Grocery List AI,1,2025-08-10
+3448,AI Accuracy,Low,Negative,Scheduling AI,1,2026-01-27
+3936,Bug,High,Neutral,Scheduling AI,0,2025-09-07
+4117,Bug,High,Neutral,Meal Recommendation AI,1,2026-01-24
+1591,AI Accuracy,High,Positive,Scheduling AI,1,2025-10-12
+3720,UX Issue,Low,Negative,Grocery List AI,0,2025-11-09
+1713,UX Issue,High,Neutral,Grocery List AI,0,2025-12-05
+1935,Bug,High,Positive,Scheduling AI,1,2025-10-24
+5337,Bug,Low,Negative,Grocery List AI,0,2025-11-24
+1001,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-11-20
+3848,UX Issue,Low,Negative,Scheduling AI,1,2025-12-27
+5044,UX Issue,Low,Neutral,Scheduling AI,1,2025-09-23
+2949,UX Issue,High,Positive,Scheduling AI,1,2026-01-19
+1917,AI Accuracy,Medium,Neutral,Grocery List AI,1,2025-10-09
+4174,Bug,High,Positive,Grocery List AI,0,2025-10-02
+3241,Feature Request,High,Negative,Scheduling AI,0,2025-08-11
+1089,Feature Request,Low,Positive,Grocery List AI,0,2026-01-12
+2709,Bug,High,Neutral,Grocery List AI,0,2026-02-03
+3169,Feature Request,Medium,Neutral,Scheduling AI,1,2025-11-05
+5238,UX Issue,High,Neutral,Scheduling AI,1,2025-08-28
+4041,UX Issue,Low,Negative,Grocery List AI,0,2025-09-09
+1105,AI Accuracy,High,Neutral,Scheduling AI,0,2025-10-11
+1886,Feature Request,Low,Positive,Scheduling AI,0,2025-12-14
+1427,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-12-21
+2895,Feature Request,High,Neutral,Scheduling AI,0,2025-12-22
+1316,AI Accuracy,Low,Positive,Grocery List AI,0,2026-01-27
+1634,AI Accuracy,Medium,Negative,Scheduling AI,1,2026-01-30
+2925,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-12-16
+3056,AI Accuracy,High,Negative,Scheduling AI,0,2025-10-09
+4144,Feature Request,Low,Negative,Meal Recommendation AI,1,2026-01-01
+3270,Feature Request,Low,Negative,Scheduling AI,0,2025-11-15
+2439,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-09-11
+1552,AI Accuracy,Medium,Positive,Meal Recommendation AI,0,2026-01-11
+1715,AI Accuracy,Low,Positive,Scheduling AI,0,2025-09-19
+4911,AI Accuracy,Low,Neutral,Scheduling AI,0,2026-01-19
+2713,AI Accuracy,Low,Negative,Scheduling AI,1,2025-12-31
+4389,Bug,Low,Negative,Meal Recommendation AI,0,2025-11-01
+2107,AI Accuracy,Medium,Negative,Grocery List AI,1,2026-01-15
+5206,UX Issue,High,Positive,Grocery List AI,0,2026-01-18
+1250,AI Accuracy,Low,Negative,Scheduling AI,0,2025-09-12
+3430,AI Accuracy,Medium,Neutral,Grocery List AI,0,2026-02-04
+3054,UX Issue,High,Positive,Grocery List AI,0,2025-09-16
+1458,UX Issue,Medium,Neutral,Scheduling AI,0,2025-09-22
+1207,AI Accuracy,High,Positive,Meal Recommendation AI,0,2025-12-16
+1899,AI Accuracy,Medium,Neutral,Scheduling AI,0,2025-11-18
+4461,UX Issue,Medium,Neutral,Grocery List AI,0,2025-08-27
+4385,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-12-31
+1021,AI Accuracy,High,Negative,Grocery List AI,0,2025-12-05
+1409,Bug,High,Negative,Meal Recommendation AI,0,2025-09-29
+1894,UX Issue,Low,Negative,Grocery List AI,1,2025-11-12
+1514,UX Issue,Low,Neutral,Scheduling AI,1,2025-12-25
+5904,UX Issue,High,Negative,Grocery List AI,0,2026-02-04
+5969,UX Issue,Medium,Negative,Grocery List AI,0,2025-12-13
+5109,UX Issue,Medium,Positive,Meal Recommendation AI,0,2025-08-14
+3134,Feature Request,High,Neutral,Grocery List AI,1,2025-10-28
+4595,Feature Request,High,Neutral,Scheduling AI,0,2025-12-28
+3956,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-08-31
+2560,UX Issue,High,Negative,Scheduling AI,0,2026-01-29
+2266,UX Issue,High,Negative,Meal Recommendation AI,0,2025-09-08
+3169,Bug,Medium,Positive,Meal Recommendation AI,0,2025-10-07
+4638,UX Issue,Medium,Negative,Grocery List AI,0,2025-08-11
+1749,UX Issue,Low,Negative,Grocery List AI,1,2025-12-22
+4427,AI Accuracy,High,Negative,Grocery List AI,0,2025-11-23
+5780,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-10-08
+2927,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-11-25
+4804,AI Accuracy,High,Neutral,Grocery List AI,1,2025-09-20
+4702,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-09-16
+3356,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-12-21
+5790,AI Accuracy,Medium,Positive,Scheduling AI,0,2025-10-05
+3335,UX Issue,Medium,Negative,Scheduling AI,0,2025-10-10
+1306,Bug,High,Neutral,Grocery List AI,1,2025-11-22
+4665,AI Accuracy,Low,Neutral,Grocery List AI,0,2026-01-30
+2989,UX Issue,High,Positive,Scheduling AI,1,2026-01-15
+1661,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-09-11
+5644,AI Accuracy,Low,Positive,Grocery List AI,1,2025-10-25
+1311,Feature Request,High,Negative,Grocery List AI,0,2025-11-09
+3920,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-10-29
+2082,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-12-05
+3971,UX Issue,Medium,Neutral,Scheduling AI,0,2025-10-21
+1754,UX Issue,High,Neutral,Grocery List AI,1,2025-11-14
+5130,Feature Request,Low,Neutral,Scheduling AI,0,2025-09-06
+5540,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-12-11
+1352,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-08-27
+1902,Feature Request,Low,Negative,Meal Recommendation AI,1,2026-01-14
+4888,UX Issue,High,Positive,Meal Recommendation AI,0,2025-11-29
+1158,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2026-01-26
+2977,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-12-01
+1956,Feature Request,Low,Neutral,Meal Recommendation AI,1,2026-01-28
+3071,UX Issue,Low,Positive,Grocery List AI,0,2025-10-05
+1403,AI Accuracy,High,Negative,Scheduling AI,0,2025-12-29
+5611,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-10-05
+3779,UX Issue,High,Negative,Grocery List AI,1,2025-12-05
+2387,AI Accuracy,Medium,Positive,Scheduling AI,0,2025-09-02
+4453,Bug,Low,Positive,Meal Recommendation AI,0,2025-09-20
+1955,Bug,High,Negative,Meal Recommendation AI,0,2025-12-22
+2712,UX Issue,Medium,Positive,Grocery List AI,1,2025-12-02
+5703,AI Accuracy,High,Neutral,Scheduling AI,0,2025-11-30
+2273,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-09-21
+4811,Feature Request,Low,Neutral,Scheduling AI,0,2025-09-25
+3625,Bug,Low,Negative,Grocery List AI,1,2025-10-22
+3382,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-09-20
+2441,AI Accuracy,Low,Negative,Scheduling AI,0,2025-09-18
+3979,Bug,Low,Positive,Grocery List AI,1,2025-11-15
+2797,UX Issue,Low,Positive,Grocery List AI,1,2025-12-09
+5390,UX Issue,Low,Neutral,Meal Recommendation AI,0,2025-09-09
+5009,Bug,High,Positive,Scheduling AI,0,2025-09-09
+5850,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-09-27
+2394,UX Issue,Medium,Positive,Meal Recommendation AI,1,2025-11-28
+5281,AI Accuracy,Medium,Neutral,Scheduling AI,1,2025-11-08
+2269,UX Issue,Medium,Neutral,Scheduling AI,1,2025-12-03
+5732,Feature Request,Low,Negative,Scheduling AI,1,2025-08-12
+4714,UX Issue,High,Positive,Grocery List AI,1,2025-11-25
+1529,Bug,Low,Neutral,Grocery List AI,0,2026-01-19
+4623,UX Issue,High,Neutral,Scheduling AI,0,2025-11-24
+3958,AI Accuracy,High,Negative,Grocery List AI,0,2025-08-29
+3914,AI Accuracy,Medium,Positive,Meal Recommendation AI,0,2025-11-27
+5889,UX Issue,Medium,Negative,Scheduling AI,0,2025-10-15
+4591,UX Issue,Medium,Negative,Meal Recommendation AI,0,2026-01-15
+3147,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-09-23
+5573,UX Issue,High,Negative,Meal Recommendation AI,0,2026-01-29
+4369,UX Issue,High,Positive,Scheduling AI,0,2025-10-17
+1939,Feature Request,Low,Negative,Meal Recommendation AI,1,2026-01-09
+1525,Feature Request,Medium,Neutral,Scheduling AI,0,2026-01-28
+1001,Feature Request,High,Neutral,Scheduling AI,0,2026-01-08
+1374,AI Accuracy,High,Neutral,Grocery List AI,0,2025-12-20
+3340,AI Accuracy,Medium,Positive,Meal Recommendation AI,1,2025-11-11
+5005,Feature Request,Medium,Negative,Grocery List AI,0,2026-01-26
+4052,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-10-14
+5648,AI Accuracy,High,Negative,Grocery List AI,0,2026-01-03
+3365,Feature Request,Low,Neutral,Scheduling AI,0,2025-09-23
+2525,Feature Request,Medium,Negative,Grocery List AI,0,2025-09-27
+5476,UX Issue,Low,Positive,Grocery List AI,1,2026-01-22
+2646,AI Accuracy,Low,Neutral,Scheduling AI,1,2025-08-17
+1013,Feature Request,Medium,Neutral,Grocery List AI,1,2025-12-21
+5599,UX Issue,High,Negative,Scheduling AI,1,2025-12-06
+3278,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-08-25
+4155,Feature Request,Medium,Positive,Grocery List AI,1,2026-01-23
+1129,Feature Request,Low,Positive,Scheduling AI,0,2026-01-20
+4814,UX Issue,Low,Negative,Scheduling AI,1,2025-09-25
+5933,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-12-29
+4216,Feature Request,Medium,Negative,Meal Recommendation AI,0,2025-08-11
+3938,UX Issue,Low,Positive,Grocery List AI,0,2025-12-29
+4928,Feature Request,Low,Negative,Scheduling AI,0,2025-10-25
+3040,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-12-11
+1027,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-12-04
+3113,Bug,High,Neutral,Scheduling AI,0,2025-10-08
+2252,Feature Request,High,Positive,Grocery List AI,0,2025-12-19
+5356,Bug,Low,Positive,Meal Recommendation AI,1,2025-10-23
+3046,Feature Request,Medium,Neutral,Meal Recommendation AI,0,2025-12-08
+5555,UX Issue,High,Negative,Meal Recommendation AI,1,2025-11-20
+5023,Feature Request,Low,Neutral,Meal Recommendation AI,1,2025-08-17
+5396,Bug,High,Negative,Meal Recommendation AI,1,2025-10-01
+4374,UX Issue,High,Neutral,Grocery List AI,1,2025-12-12
+4466,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-12-12
+4081,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-09-29
+4778,UX Issue,High,Neutral,Scheduling AI,0,2025-09-22
+1629,Feature Request,Medium,Neutral,Meal Recommendation AI,1,2025-10-01
+1269,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-09-26
+3639,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-11-12
+2993,AI Accuracy,Medium,Negative,Scheduling AI,0,2025-10-13
+3891,AI Accuracy,High,Negative,Grocery List AI,1,2025-12-09
+5957,AI Accuracy,High,Neutral,Grocery List AI,0,2025-12-30
+4432,UX Issue,High,Positive,Scheduling AI,1,2025-12-18
+2280,Bug,Low,Neutral,Grocery List AI,0,2025-11-30
+3360,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2026-01-17
+1575,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-09-29
+2307,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2026-01-07
+4192,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-11-10
+4178,UX Issue,High,Negative,Grocery List AI,0,2026-01-03
+3734,Feature Request,High,Positive,Grocery List AI,0,2025-10-09
+3212,Feature Request,Medium,Negative,Scheduling AI,1,2025-08-20
+3352,Feature Request,Medium,Negative,Grocery List AI,0,2025-09-07
+4568,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-09-25
+2655,Feature Request,Medium,Neutral,Grocery List AI,0,2025-11-26
+2579,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-09-24
+3203,Bug,Medium,Neutral,Meal Recommendation AI,0,2025-08-12
+2390,UX Issue,High,Neutral,Meal Recommendation AI,0,2026-01-14
+2742,AI Accuracy,Medium,Neutral,Scheduling AI,0,2025-11-20
+2925,AI Accuracy,Low,Negative,Scheduling AI,1,2026-02-01
+1619,AI Accuracy,High,Positive,Scheduling AI,0,2025-11-25
+2274,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-08-24
+1956,AI Accuracy,Low,Negative,Grocery List AI,0,2025-08-30
+2939,UX Issue,Low,Negative,Scheduling AI,1,2025-08-24
+4953,AI Accuracy,Medium,Positive,Scheduling AI,0,2025-09-30
+3381,Feature Request,High,Negative,Meal Recommendation AI,1,2025-12-22
+1968,Feature Request,Medium,Positive,Scheduling AI,0,2025-09-22
+2316,Feature Request,High,Positive,Grocery List AI,1,2025-08-21
+2043,Feature Request,Medium,Neutral,Meal Recommendation AI,0,2025-11-04
+1281,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2026-01-31
+3844,AI Accuracy,High,Negative,Grocery List AI,1,2025-09-02
+2058,Feature Request,Low,Positive,Grocery List AI,1,2025-10-24
+5293,UX Issue,Low,Neutral,Grocery List AI,0,2025-11-16
+3532,UX Issue,Medium,Positive,Scheduling AI,1,2025-11-10
+4828,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-21
+2008,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-09-28
+2229,AI Accuracy,Medium,Negative,Grocery List AI,1,2025-12-04
+2035,Bug,Medium,Neutral,Meal Recommendation AI,0,2025-12-16
+5585,AI Accuracy,Medium,Positive,Meal Recommendation AI,1,2025-10-12
+1275,UX Issue,High,Negative,Scheduling AI,0,2025-10-15
+3740,AI Accuracy,Medium,Neutral,Grocery List AI,1,2026-01-05
+3289,Feature Request,High,Neutral,Scheduling AI,0,2026-01-29
+2239,AI Accuracy,Low,Negative,Grocery List AI,1,2025-08-31
+1125,Bug,Medium,Positive,Grocery List AI,1,2026-02-02
+5065,Bug,High,Negative,Grocery List AI,0,2025-12-16
+5312,AI Accuracy,Medium,Neutral,Grocery List AI,1,2025-12-11
+4868,Bug,High,Neutral,Grocery List AI,0,2025-11-24
+2208,Bug,Low,Positive,Meal Recommendation AI,1,2026-01-26
+4249,Feature Request,Low,Positive,Meal Recommendation AI,1,2025-12-06
+1918,Feature Request,Medium,Negative,Grocery List AI,0,2025-12-17
+4923,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-10-06
+5403,UX Issue,High,Positive,Scheduling AI,0,2025-08-14
+2969,AI Accuracy,Low,Positive,Scheduling AI,0,2026-02-04
+3793,AI Accuracy,High,Negative,Scheduling AI,0,2025-12-29
+1891,Bug,High,Negative,Grocery List AI,1,2025-11-18
+5470,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-11-08
+3033,Feature Request,Low,Neutral,Meal Recommendation AI,1,2025-11-15
+2364,Feature Request,High,Positive,Meal Recommendation AI,0,2025-11-30
+1128,Bug,High,Negative,Meal Recommendation AI,1,2026-01-19
+2014,Bug,Medium,Negative,Scheduling AI,0,2025-10-01
+2799,AI Accuracy,Low,Positive,Scheduling AI,1,2025-10-16
+5612,AI Accuracy,Medium,Negative,Scheduling AI,0,2025-09-22
+2518,UX Issue,High,Neutral,Scheduling AI,0,2025-12-07
+5181,AI Accuracy,Low,Neutral,Meal Recommendation AI,0,2025-12-27
+2198,AI Accuracy,High,Neutral,Grocery List AI,1,2025-11-08
+4873,UX Issue,Low,Negative,Grocery List AI,0,2025-12-26
+3474,Feature Request,Low,Neutral,Scheduling AI,1,2025-09-18
+4485,UX Issue,Low,Neutral,Grocery List AI,0,2025-10-13
+5049,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-10-28
+4719,Feature Request,Low,Positive,Grocery List AI,0,2025-10-11
+1302,AI Accuracy,Medium,Positive,Scheduling AI,0,2025-11-08
+4952,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-11-04
+5683,Feature Request,Low,Positive,Meal Recommendation AI,0,2025-09-19
+1986,UX Issue,Low,Negative,Grocery List AI,0,2025-12-07
+2863,Feature Request,High,Neutral,Meal Recommendation AI,1,2025-11-29
+5440,AI Accuracy,Medium,Neutral,Meal Recommendation AI,1,2025-11-19
+5909,Feature Request,Medium,Neutral,Scheduling AI,1,2025-12-21
+4072,UX Issue,Medium,Neutral,Scheduling AI,0,2025-12-29
+4124,UX Issue,High,Positive,Grocery List AI,0,2026-01-19
+2327,UX Issue,Low,Neutral,Grocery List AI,1,2025-12-01
+3408,Bug,High,Negative,Grocery List AI,0,2025-12-31
+4673,UX Issue,High,Negative,Scheduling AI,1,2025-11-23
+4291,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2026-01-29
+5033,Bug,Low,Neutral,Scheduling AI,1,2026-01-20
+1703,Feature Request,High,Positive,Scheduling AI,0,2026-01-22
+1574,UX Issue,Low,Positive,Meal Recommendation AI,1,2025-11-17
+4232,Feature Request,Medium,Positive,Meal Recommendation AI,0,2026-01-11
+5783,UX Issue,High,Negative,Grocery List AI,1,2025-10-23
+3632,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2026-02-01
+4828,UX Issue,High,Positive,Meal Recommendation AI,1,2025-09-01
+4230,Bug,Low,Neutral,Meal Recommendation AI,1,2025-10-01
+1488,Bug,High,Positive,Meal Recommendation AI,0,2025-12-11
+2347,AI Accuracy,Medium,Negative,Grocery List AI,0,2026-01-30
+4681,UX Issue,Low,Positive,Grocery List AI,0,2025-09-29
+4173,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-08-22
+5589,Bug,High,Negative,Meal Recommendation AI,0,2025-09-29
+2667,Bug,Low,Neutral,Grocery List AI,0,2025-10-13
+2637,UX Issue,Low,Negative,Grocery List AI,0,2025-12-10
+5114,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-12-02
+4553,Feature Request,Medium,Neutral,Scheduling AI,1,2025-12-02
+2000,UX Issue,Medium,Negative,Grocery List AI,0,2025-10-25
+1850,AI Accuracy,Low,Positive,Grocery List AI,1,2026-01-15
+2388,UX Issue,Low,Neutral,Grocery List AI,1,2025-08-31
+4712,Feature Request,Low,Neutral,Meal Recommendation AI,0,2026-01-03
+2367,Feature Request,Low,Neutral,Meal Recommendation AI,0,2025-08-13
+1821,UX Issue,Medium,Negative,Grocery List AI,0,2026-01-14
+1454,Bug,High,Negative,Meal Recommendation AI,1,2025-10-18
+2624,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2026-02-01
+3772,UX Issue,Low,Negative,Grocery List AI,0,2025-08-17
+4726,Feature Request,Low,Neutral,Meal Recommendation AI,1,2025-09-18
+4147,Feature Request,High,Positive,Scheduling AI,0,2025-11-23
+5089,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-10-09
+5806,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-11-04
+3190,AI Accuracy,Low,Neutral,Grocery List AI,1,2025-12-02
+1916,UX Issue,Low,Negative,Grocery List AI,0,2025-12-02
+4986,UX Issue,Low,Neutral,Scheduling AI,0,2026-01-26
+3875,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-09-12
+2440,Feature Request,Medium,Neutral,Scheduling AI,1,2025-12-20
+5400,UX Issue,High,Negative,Scheduling AI,1,2025-12-01
+1735,Feature Request,High,Negative,Grocery List AI,0,2025-12-18
+4568,Feature Request,High,Negative,Meal Recommendation AI,0,2026-01-14
+4338,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-11-11
+4015,AI Accuracy,High,Negative,Scheduling AI,0,2026-01-10
+3889,Feature Request,Low,Positive,Scheduling AI,1,2025-09-21
+1961,UX Issue,Low,Negative,Grocery List AI,0,2025-09-09
+3989,Feature Request,High,Neutral,Grocery List AI,0,2025-11-02
+4848,Feature Request,Low,Neutral,Grocery List AI,0,2025-10-21
+2026,Feature Request,Medium,Neutral,Grocery List AI,0,2025-09-24
+4865,Bug,Low,Negative,Grocery List AI,1,2026-01-22
+3863,UX Issue,High,Positive,Scheduling AI,1,2025-08-28
+3501,UX Issue,High,Negative,Grocery List AI,0,2025-11-26
+2947,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-09-06
+2177,AI Accuracy,High,Neutral,Scheduling AI,1,2025-11-22
+5760,UX Issue,Low,Positive,Scheduling AI,1,2025-10-08
+1011,AI Accuracy,Medium,Neutral,Meal Recommendation AI,0,2025-10-16
+5399,Bug,High,Neutral,Meal Recommendation AI,0,2025-12-16
+4364,UX Issue,High,Neutral,Scheduling AI,0,2025-09-28
+4022,UX Issue,High,Negative,Grocery List AI,1,2025-09-15
+4371,UX Issue,Low,Neutral,Scheduling AI,1,2025-08-26
+3830,AI Accuracy,High,Negative,Scheduling AI,0,2025-12-31
+1042,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-10-10
+1943,UX Issue,High,Negative,Scheduling AI,0,2025-08-22
+3390,AI Accuracy,Low,Positive,Grocery List AI,0,2026-02-01
+3545,UX Issue,High,Neutral,Meal Recommendation AI,1,2026-01-30
+3411,Bug,Medium,Neutral,Scheduling AI,0,2025-08-31
+5986,Bug,Low,Negative,Scheduling AI,0,2025-10-18
+2004,Feature Request,Medium,Negative,Grocery List AI,1,2025-10-29
+1020,AI Accuracy,Low,Positive,Scheduling AI,0,2025-10-06
+1406,Bug,Medium,Positive,Scheduling AI,1,2025-10-11
+2014,Bug,High,Negative,Scheduling AI,0,2025-11-01
+5431,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-11-30
+2838,Feature Request,Medium,Negative,Grocery List AI,0,2025-10-08
+4188,AI Accuracy,Medium,Neutral,Scheduling AI,1,2026-01-21
+1714,Feature Request,Low,Negative,Scheduling AI,0,2026-01-19
+5146,Bug,Low,Positive,Scheduling AI,0,2026-01-18
+4854,AI Accuracy,Medium,Positive,Meal Recommendation AI,1,2025-10-13
+5419,Bug,Low,Negative,Grocery List AI,0,2025-09-11
+5884,UX Issue,Low,Negative,Meal Recommendation AI,1,2025-11-21
+1140,Bug,Medium,Neutral,Meal Recommendation AI,0,2025-11-09
+5565,UX Issue,Low,Neutral,Grocery List AI,0,2025-09-06
+5882,Feature Request,Low,Negative,Meal Recommendation AI,1,2025-11-06
+1963,AI Accuracy,Medium,Negative,Meal Recommendation AI,1,2025-12-19
+1372,AI Accuracy,Low,Negative,Meal Recommendation AI,1,2025-08-31
+4635,AI Accuracy,High,Negative,Grocery List AI,1,2026-01-21
+3541,Bug,High,Positive,Scheduling AI,0,2025-08-14
+4610,Feature Request,High,Positive,Grocery List AI,1,2025-10-05
+2692,Bug,Low,Negative,Grocery List AI,0,2025-10-01
+1105,Bug,High,Negative,Grocery List AI,0,2025-08-17
+2681,AI Accuracy,High,Neutral,Meal Recommendation AI,0,2025-10-30
+5097,UX Issue,High,Positive,Scheduling AI,0,2025-09-03
+5016,AI Accuracy,Low,Negative,Grocery List AI,1,2025-11-13
+3636,AI Accuracy,Medium,Positive,Grocery List AI,0,2025-12-26
+3137,AI Accuracy,High,Neutral,Scheduling AI,1,2025-11-01
+4416,UX Issue,Medium,Neutral,Scheduling AI,0,2025-11-29
+5445,AI Accuracy,Medium,Negative,Scheduling AI,0,2026-01-31
+4530,AI Accuracy,Medium,Negative,Meal Recommendation AI,0,2025-12-14
+2286,AI Accuracy,Medium,Neutral,Scheduling AI,1,2025-10-06
+4179,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-09-22
+4654,Bug,Medium,Negative,Grocery List AI,1,2026-01-14
+3359,Feature Request,Low,Neutral,Meal Recommendation AI,0,2025-10-22
+1444,Bug,Medium,Negative,Scheduling AI,0,2026-01-29
+1035,UX Issue,Low,Neutral,Meal Recommendation AI,1,2025-09-08
+2475,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-12-21
+4957,Feature Request,Low,Positive,Meal Recommendation AI,0,2026-01-06
+2798,AI Accuracy,High,Positive,Grocery List AI,1,2025-10-02
+2845,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-10-27
+2408,AI Accuracy,Low,Negative,Grocery List AI,1,2025-09-14
+2708,AI Accuracy,Low,Negative,Scheduling AI,1,2025-11-18
+3938,AI Accuracy,Low,Negative,Grocery List AI,1,2025-09-25
+2300,UX Issue,High,Neutral,Scheduling AI,0,2025-11-30
+2243,Feature Request,Medium,Neutral,Scheduling AI,1,2026-01-13
+4976,AI Accuracy,Medium,Neutral,Grocery List AI,0,2025-11-23
+4097,AI Accuracy,Low,Positive,Grocery List AI,1,2026-01-31
+5616,Feature Request,Medium,Positive,Meal Recommendation AI,0,2025-09-07
+1009,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-11-15
+3425,AI Accuracy,High,Negative,Grocery List AI,1,2026-01-11
+2660,Bug,Medium,Positive,Grocery List AI,0,2026-01-28
+3631,AI Accuracy,Low,Positive,Grocery List AI,0,2025-09-09
+5815,AI Accuracy,Low,Negative,Grocery List AI,1,2026-02-03
+2072,UX Issue,Low,Neutral,Scheduling AI,1,2026-01-14
+4225,AI Accuracy,Low,Negative,Grocery List AI,1,2025-11-25
+5954,UX Issue,Low,Negative,Grocery List AI,0,2025-11-10
+2316,Feature Request,Low,Negative,Grocery List AI,1,2025-11-25
+5145,AI Accuracy,Low,Neutral,Grocery List AI,0,2025-11-29
+4683,UX Issue,High,Negative,Scheduling AI,0,2025-12-03
+4273,UX Issue,Medium,Neutral,Meal Recommendation AI,1,2025-11-03
+1145,AI Accuracy,High,Negative,Meal Recommendation AI,1,2026-01-17
+4040,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-09-30
+2462,AI Accuracy,Low,Positive,Meal Recommendation AI,0,2025-11-10
+5676,UX Issue,High,Neutral,Meal Recommendation AI,0,2025-11-15
+2584,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-11-10
+1482,UX Issue,Medium,Negative,Meal Recommendation AI,0,2025-10-31
+4179,AI Accuracy,Low,Negative,Scheduling AI,1,2025-12-15
+2249,Feature Request,High,Negative,Scheduling AI,1,2025-08-14
+5768,AI Accuracy,Low,Positive,Meal Recommendation AI,1,2025-11-15
+1630,UX Issue,Low,Negative,Meal Recommendation AI,0,2025-08-17
+1661,UX Issue,High,Neutral,Meal Recommendation AI,1,2025-10-31
+4503,Feature Request,Low,Negative,Grocery List AI,0,2025-09-23
+3852,UX Issue,High,Negative,Scheduling AI,0,2025-10-13
+3466,Feature Request,High,Positive,Meal Recommendation AI,0,2025-11-05
+1987,Feature Request,High,Negative,Grocery List AI,1,2026-02-04
+2546,Bug,High,Positive,Scheduling AI,1,2025-12-04
+1649,AI Accuracy,High,Neutral,Grocery List AI,0,2025-08-22
+1968,UX Issue,Low,Neutral,Grocery List AI,0,2026-01-17
+3637,Feature Request,High,Positive,Meal Recommendation AI,0,2026-01-05
+2100,Bug,Medium,Negative,Scheduling AI,1,2025-11-20
+1440,Bug,Medium,Positive,Grocery List AI,0,2025-10-07
+1769,UX Issue,Low,Positive,Scheduling AI,0,2026-01-12
+2343,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-11-28
+5358,UX Issue,High,Negative,Scheduling AI,0,2025-08-28
+4729,Feature Request,High,Negative,Grocery List AI,0,2025-12-08
+4906,UX Issue,Medium,Negative,Grocery List AI,0,2025-10-14
+2577,UX Issue,Low,Negative,Scheduling AI,1,2025-08-28
+5008,Feature Request,Low,Neutral,Grocery List AI,0,2025-08-29
+4351,UX Issue,High,Positive,Grocery List AI,1,2025-10-27
+5795,Bug,High,Positive,Grocery List AI,1,2025-08-20
+3349,UX Issue,Medium,Neutral,Meal Recommendation AI,0,2026-01-24
+4602,AI Accuracy,Low,Negative,Meal Recommendation AI,0,2025-10-09
+2241,UX Issue,Medium,Neutral,Grocery List AI,0,2025-09-19
+2125,Feature Request,Medium,Negative,Scheduling AI,0,2025-10-31
+3601,AI Accuracy,High,Neutral,Meal Recommendation AI,1,2025-09-11
+2190,AI Accuracy,Medium,Positive,Scheduling AI,1,2025-12-10
+5131,Bug,Low,Positive,Grocery List AI,0,2025-12-25
+5839,AI Accuracy,Medium,Negative,Grocery List AI,0,2025-10-30
+5448,UX Issue,Low,Negative,Scheduling AI,0,2026-01-05
+1072,UX Issue,High,Negative,Meal Recommendation AI,0,2026-02-03
+2914,UX Issue,Low,Positive,Scheduling AI,1,2025-08-23
+3472,UX Issue,Medium,Negative,Scheduling AI,0,2026-01-04
+4046,AI Accuracy,Low,Positive,Grocery List AI,1,2025-09-20
+1707,UX Issue,High,Positive,Meal Recommendation AI,0,2025-10-23
+2804,UX Issue,High,Negative,Scheduling AI,1,2025-09-22
+4713,Feature Request,High,Neutral,Meal Recommendation AI,1,2025-11-22
+3564,AI Accuracy,Low,Negative,Grocery List AI,0,2025-10-23
+3475,UX Issue,Low,Positive,Meal Recommendation AI,0,2025-09-10
+4610,AI Accuracy,Low,Negative,Grocery List AI,0,2025-09-10
+5255,AI Accuracy,High,Negative,Meal Recommendation AI,0,2025-10-01
+3823,AI Accuracy,Low,Neutral,Scheduling AI,1,2026-01-27
+2735,AI Accuracy,Medium,Negative,Grocery List AI,1,2026-01-21
+2585,Feature Request,High,Positive,Scheduling AI,1,2025-10-31
+1066,AI Accuracy,High,Negative,Grocery List AI,1,2025-10-23
+4061,Bug,Medium,Neutral,Meal Recommendation AI,0,2025-12-04
+3428,Bug,Medium,Positive,Meal Recommendation AI,1,2026-01-15
+5153,UX Issue,Low,Neutral,Grocery List AI,1,2026-01-31
+1341,AI Accuracy,High,Positive,Grocery List AI,0,2025-10-03
+3774,UX Issue,High,Negative,Grocery List AI,0,2025-08-26
+3817,Feature Request,Low,Neutral,Meal Recommendation AI,0,2025-11-12
+3661,UX Issue,Medium,Positive,Grocery List AI,0,2025-10-15
+2232,AI Accuracy,High,Neutral,Grocery List AI,0,2025-08-13
+4874,UX Issue,High,Neutral,Scheduling AI,1,2025-11-17
+3401,Feature Request,Low,Negative,Grocery List AI,1,2025-10-12
+2494,Feature Request,Medium,Negative,Scheduling AI,0,2025-08-26
+5211,AI Accuracy,Low,Neutral,Scheduling AI,0,2025-10-31
+1661,Feature Request,Low,Negative,Scheduling AI,1,2026-01-15
+4883,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-11-17
+4619,AI Accuracy,High,Positive,Scheduling AI,0,2025-12-28
+2868,Bug,High,Negative,Grocery List AI,1,2025-08-27
+3334,AI Accuracy,Low,Neutral,Meal Recommendation AI,1,2025-10-07
+4374,AI Accuracy,High,Negative,Meal Recommendation AI,1,2025-10-04
